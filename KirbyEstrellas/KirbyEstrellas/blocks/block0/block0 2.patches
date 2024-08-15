@@ -1,0 +1,89 @@
+{
+  "id": "1271443442d50db150a4fe3b0fdf0e069c429b7",
+  "revision": "1271444442d50db150a4fe3b0fdf0e069c429b7",
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 173
+  },
+  "creatorIdentifier": "com.facebook.arstudio.skylight",
+  "creatorPlatform": "macosx",
+  "creatorFileVersion": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 173
+  },
+  "visual_programming": {
+    "connections": [
+      {
+        "modelName": "patch_connection_model",
+        "identifier": "patch_connection_model:1274725-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "fromPatch": "producer_patch_model:1274723-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "fromPort": "block_input_port_model:1274721-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "toPatch": "consumer_patch_model:1013163-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "toPort": "101"
+      }
+    ],
+    "graphs": [
+      {
+        "modelName": "patch_graph",
+        "identifier": "patch_graph:1274715-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "subpatches": [
+          "consumer_patch_model:1013163-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+          "producer_patch_model:1274723-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+        ]
+      }
+    ],
+    "patches": [
+      {
+        "modelName": "consumer_patch_model",
+        "name": "Cube.002_Material.002_0",
+        "identifier": "consumer_patch_model:1013163-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "object": "mesh:997335-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "objectProperty": "scale",
+        "position": [
+          3692,
+          1052
+        ],
+        "values": [
+          {
+            "port": "101",
+            "value": {
+              "t": "vec3",
+              "v": [
+                1,
+                1,
+                1
+              ]
+            }
+          }
+        ],
+        "variantInfo": "local_transform"
+      },
+      {
+        "modelName": "producer_patch_model",
+        "name": "Block Root",
+        "identifier": "producer_patch_model:1274723-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "object": "block_root_model:1271525-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+      }
+    ],
+    "ports": [
+      {
+        "modelName": "block_input_port_model",
+        "name": "3D Scale",
+        "identifier": "block_input_port_model:1274721-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "defaultValue": {
+          "t": "vec3",
+          "v": [
+            0,
+            0,
+            0
+          ]
+        },
+        "portName": "3D Scale",
+        "portTag": "block_input_port_model:1274721-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+        "portType": "vec3"
+      }
+    ]
+  }
+}

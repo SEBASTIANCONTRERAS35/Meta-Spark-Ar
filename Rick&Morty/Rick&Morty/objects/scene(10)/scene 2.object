@@ -1,0 +1,287 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Silla de playa lowpoly - beach chair lowpoly",
+  "identifier": "master3_d_object_model:833833-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "sourceIdentifier": "asset_collection_model:833837-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 4.857560157775879,
+  "globalScaleFactor": 0.3973512593909352,
+  "height": 5.033329963684082,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 3.2165400981903076,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Root",
+      "identifier": "sceneObject:833803-2db8d888-e8af-407b-972d-14f887c96a8c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "Lamp",
+          "identifier": "sceneObject:833805-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0.6503257155418396,
+            "ry": 0.05521819368004799,
+            "rz": 1.8663866519927979,
+            "sx": 0.9999975562095642,
+            "sy": 0.9999958276748657,
+            "sz": 0.9999960660934448,
+            "x": 1.6197031736373901,
+            "y": 0.3995168209075928,
+            "z": 2.3459062576293945
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "Lamp",
+              "identifier": "sceneObject:833807-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ]
+        },
+        {
+          "modelName": "sceneObject",
+          "name": "MADERAS",
+          "identifier": "sceneObject:833809-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1.8994200229644775,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "mesh",
+              "name": "MADERAS_0",
+              "identifier": "mesh:833811-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "nodeName": "MADERAS_0",
+              "numberOfFaces": 1663,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:833815-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:833813-2db8d888-e8af-407b-972d-14f887c96a8c",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:833818-2db8d888-e8af-407b-972d-14f887c96a8c",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:833793-2db8d888-e8af-407b-972d-14f887c96a8c",
+                      "surfaceGroupIdentifier": "833819-2db8d888-e8af-407b-972d-14f887c96a8c"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "sceneObject",
+          "name": "TELA",
+          "identifier": "sceneObject:833821-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": -0.541756808757782,
+            "ry": 0,
+            "rz": 0,
+            "sx": 0.7986699938774109,
+            "sy": 0.06372550129890442,
+            "sz": 1.9321887493133545,
+            "x": 0,
+            "y": -0.12192326039075851,
+            "z": 0.29329290986061096
+          },
+          "children": [
+            {
+              "modelName": "mesh",
+              "name": "TELA_0",
+              "identifier": "mesh:833823-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "castShadow": false,
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "nodeName": "TELA_0",
+              "numberOfFaces": 188,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "prefabIdentifier": "gltf:833827-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "receiveShadow": false,
+              "renderPass": "main_scene",
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "useEmbeddedBlendshapes": false,
+              "children": [
+                {
+                  "modelName": "surfaces",
+                  "identifier": "surfaces:833825-2db8d888-e8af-407b-972d-14f887c96a8c",
+                  "children": [
+                    {
+                      "modelName": "surface",
+                      "name": "surface0",
+                      "identifier": "surface:833830-2db8d888-e8af-407b-972d-14f887c96a8c",
+                      "isMaterialIdentifierEnabled": true,
+                      "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:833797-2db8d888-e8af-407b-972d-14f887c96a8c",
+                      "surfaceGroupIdentifier": "833831-2db8d888-e8af-407b-972d-14f887c96a8c"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Microsoft",
+  "identifier": "texture:1142234-92679b34-ac5a-41c7-935a-3009119e2672",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "35cec183a12a20158222afa1e30d745a",
+  "assetLocator": "textures/Microsoft.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 225,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 225,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "35cec183a12a20158222afa1e30d745a",
+      "colorCount": 28,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.7721274327327379,
+      "pixelsHigh": 225,
+      "pixelsWide": 225
+    }
+  ]
+}

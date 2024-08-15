@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "replaceMe",
+  "identifier": "texture:1047-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+  "alphaPremultiplicationMode": "none",
+  "assetDataHash": "0b24f5e752e29242973e082db00af911",
+  "assetLocator": "textures/MuralSquitle.png",
+  "colorEncoding": "srgb",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:27716-a11cf47a-2f52-4d95-956b-6120a80f364b",
+    "textureExportConfig:27718-a11cf47a-2f52-4d95-956b-6120a80f364b",
+    "textureExportConfig:27720-a11cf47a-2f52-4d95-956b-6120a80f364b"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1016,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0b24f5e752e29242973e082db00af911",
+      "colorCount": 159685,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 12.690361049918394,
+      "pixelsHigh": 1016,
+      "pixelsWide": 1024
+    }
+  ]
+}

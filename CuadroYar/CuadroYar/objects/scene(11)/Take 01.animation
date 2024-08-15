@@ -1,0 +1,89 @@
+{
+  "modelName": "animation_model",
+  "name": "Take 01",
+  "identifier": "animation_model:548441-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+  "sourceIdentifier": "asset_collection_model:548461-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+  "assetLocator": "76ad21b38d04b7c8b473b154c3907cd4.glb",
+  "duration": 2.875,
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "ticksPerSecond": 1000,
+  "children": [
+    {
+      "modelName": "animation_channels_model",
+      "identifier": "animation_channels_model:548443-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model0",
+      "identifier": "animation_channel_model:548445-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model1",
+      "identifier": "animation_channel_model:548447-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model2",
+      "identifier": "animation_channel_model:548449-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model3",
+      "identifier": "animation_channel_model:548451-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model4",
+      "identifier": "animation_channel_model:548453-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model5",
+      "identifier": "animation_channel_model:548455-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model6",
+      "identifier": "animation_channel_model:548457-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    }
+  ]
+}

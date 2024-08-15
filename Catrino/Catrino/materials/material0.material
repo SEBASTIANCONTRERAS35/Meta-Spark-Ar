@@ -1,0 +1,28 @@
+{
+  "modelName": "colorPaintMaterial",
+  "name": "material0",
+  "identifier": "colorPaintMaterial:92043-89474107-3a20-438d-ae14-448131c36af3",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "backgroundInfluence": 0.7,
+  "cullMode": "back",
+  "diffuseTextureName": "texture:93358-f68d9aca-94e7-4a4b-8a19-a1732eecf3df",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "paintBrightness": 0.7,
+  "readDepth": true,
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}

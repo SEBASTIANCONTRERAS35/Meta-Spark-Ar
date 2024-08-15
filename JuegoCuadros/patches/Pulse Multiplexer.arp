@@ -1,0 +1,3142 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:408047-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:408049-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408067-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408069-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": true,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408071-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": true
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408059-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:408051-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408081-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408083-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408085-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": true
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408073-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:408053-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:408057-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -436,
+                    -220
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "identifier": "patch_model:408045-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "patch_model",
+              "name": "Pulse 1",
+              "prototype": "builtin.group.input"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:408089-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:408091-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408109-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408111-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": true,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408113-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": true
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408101-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:408093-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408123-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408125-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408127-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": true
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408115-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:408095-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:408099-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -436,
+                    -76
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "identifier": "patch_model:408087-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "patch_model",
+              "name": "Pulse 2",
+              "prototype": "builtin.group.input"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:408131-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:408133-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408151-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408153-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A pulse that turns the switch on. If the switch is already on, the pulse has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": true,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408155-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408143-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:408135-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408165-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408167-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A pulse that turns the switch on. If the switch is already on, the pulse has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408169-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408157-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:408137-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:408141-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -436,
+                    92
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "identifier": "patch_model:408129-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "patch_model",
+              "name": "Pulse 3",
+              "prototype": "builtin.group.input"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:408173-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:408175-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408193-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408195-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A pulse that turns the switch on. If the switch is already on, the pulse has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": true,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408197-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408185-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:408177-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408207-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408209-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A pulse that turns the switch on. If the switch is already on, the pulse has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408211-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408199-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:408179-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:408183-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -436,
+                    236
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "identifier": "patch_model:408171-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "patch_model",
+              "name": "Pulse 4",
+              "prototype": "builtin.group.input"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:408215-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:408217-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408235-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408237-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A pulse that is output when the input turns on.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408239-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "onEvent",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408227-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Turned On",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:408219-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:408249-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:408251-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A pulse that is output when the input turns on.",
+                          "deprecateGatekeeperName": "",
+                          "enumOptions": [],
+                          "gatekeeperName": "",
+                          "hidden": true,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:408253-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "onEvent",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:408241-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                      "modelName": "port_model",
+                      "name": "Turned On",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:408221-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:408225-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    356,
+                    -52
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "identifier": "patch_model:408213-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "patch_model",
+              "name": "Pulse",
+              "prototype": "builtin.group.output"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:290925-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:290927-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:290947-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:290949-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on or off depending on the current state.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:290951-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "trigger",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:290939-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Flip",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:290961-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:290963-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on. If the switch is already on, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:290965-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:290953-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:290975-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:290977-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch off. If the switch is already off, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:290979-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnoff",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:290967-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn Off",
+                      "portTag": 3
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:290929-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:290989-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:290991-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's on or off. The default is off.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:290993-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "state",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:290981-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "On / Off",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:290931-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Use a pulse signal to turn a boolean signal on or off.",
+                      "category": "Utility",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:290937-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:290935-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -148,
+                    -124
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:290923-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Switch",
+              "propertyIdentifier": "",
+              "prototype": "builtin.toggle"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291301-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291303-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291323-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291325-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The first signal to check.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291327-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "left",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291315-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "First Boolean",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291337-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291339-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The second signal to check.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291341-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "right",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291329-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Second Boolean",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291305-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291351-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291353-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's turned on if one or both inputs are true.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291355-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "result",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291343-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291307-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Check if either one of 2 booleans are true.",
+                      "category": "Logic",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291313-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291311-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    118,
+                    -50
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291299-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Or",
+              "propertyIdentifier": "",
+              "prototype": "builtin.binaryBoolOrOperator"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291243-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291245-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291265-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291267-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291269-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291257-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291279-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "maximumValue": {
+                            "type": 0,
+                            "value": 100
+                          },
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 2,
+                          "type": 0
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291281-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The number of seconds to wait.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291283-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": true,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "duration",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "identifier": "port_model:291271-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Duration",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291247-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291293-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291295-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value after the delay has elapsed.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291297-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "output",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291285-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291249-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Delays value by some time.",
+                      "category": "Math",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291255-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291253-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -316,
+                    260
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291241-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Delay",
+              "propertyIdentifier": "",
+              "prototype": "builtin.delay"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:290997-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:290999-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291019-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291021-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on or off depending on the current state.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291023-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "trigger",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291011-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Flip",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291033-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291035-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on. If the switch is already on, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291037-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291025-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291047-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291049-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch off. If the switch is already off, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291051-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnoff",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291039-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn Off",
+                      "portTag": 3
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291001-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291061-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291063-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's on or off. The default is off.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291065-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "state",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291053-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "On / Off",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291003-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Use a pulse signal to turn a boolean signal on or off.",
+                      "category": "Utility",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291009-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291007-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -148,
+                    44
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:290995-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Switch",
+              "propertyIdentifier": "",
+              "prototype": "builtin.toggle"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291127-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291129-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291149-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291151-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's on or off.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291153-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "signal",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291141-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "On / Off",
+                      "portTag": 1
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291131-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291163-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291165-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's sent when the input is on.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291167-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "onEvent",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291155-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turned On",
+                      "portTag": 100
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291177-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291179-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's sent when the input is off.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291181-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "offEvent",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291169-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turned Off",
+                      "portTag": 101
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291133-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Send a pulse signal whenever a boolean signal turns on or off.",
+                      "category": "Utility",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291139-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291137-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    212,
+                    -52
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291125-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Pulse",
+              "propertyIdentifier": "",
+              "prototype": "builtin.pulse"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291069-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291071-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291091-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291093-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291095-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291083-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291105-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "maximumValue": {
+                            "type": 0,
+                            "value": 100
+                          },
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 2,
+                          "type": 0
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291107-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The number of seconds to wait.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291109-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": true,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "duration",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "identifier": "port_model:291097-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Duration",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291073-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291119-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291121-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value after the delay has elapsed.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291123-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "output",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291111-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291075-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Delays value by some time.",
+                      "category": "Math",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291081-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291079-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -316,
+                    116
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291067-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Delay",
+              "propertyIdentifier": "",
+              "prototype": "builtin.delay"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291431-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291433-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291453-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291455-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on or off depending on the current state.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291457-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "trigger",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291445-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Flip",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291467-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291469-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on. If the switch is already on, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291471-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291459-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291481-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291483-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch off. If the switch is already off, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291485-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnoff",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291473-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn Off",
+                      "portTag": 3
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291435-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291495-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291497-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's on or off. The default is off.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291499-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "state",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291487-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "On / Off",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291437-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Use a pulse signal to turn a boolean signal on or off.",
+                      "category": "Utility",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291443-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291441-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -148,
+                    -268
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291429-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Switch",
+              "propertyIdentifier": "",
+              "prototype": "builtin.toggle"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291359-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291361-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291381-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291383-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on or off depending on the current state.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291385-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "trigger",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291373-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Flip",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291395-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291397-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch on. If the switch is already on, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291399-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnon",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291387-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn On",
+                      "portTag": 2
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291409-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291411-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that turns the switch off. If the switch is already off, this has no effect.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291413-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "turnoff",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291401-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Turn Off",
+                      "portTag": 3
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291363-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291423-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291425-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's on or off. The default is off.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291427-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "state",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291415-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "On / Off",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291365-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Use a pulse signal to turn a boolean signal on or off.",
+                      "category": "Utility",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291371-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291369-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -148,
+                    188
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291357-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Switch",
+              "propertyIdentifier": "",
+              "prototype": "builtin.toggle"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291185-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291187-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291207-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291209-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291211-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291199-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291221-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "maximumValue": {
+                            "type": 0,
+                            "value": 100
+                          },
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 2,
+                          "type": 0
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291223-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The number of seconds to wait.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291225-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": true,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "duration",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "identifier": "port_model:291213-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Duration",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291189-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291235-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291237-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value after the delay has elapsed.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291239-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "output",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291227-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291191-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Delays value by some time.",
+                      "category": "Math",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291197-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291195-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -314,
+                    -50
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291183-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Delay",
+              "propertyIdentifier": "",
+              "prototype": "builtin.delay"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291503-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291505-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291525-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291527-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The first signal to check.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291529-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "left",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291517-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "First Boolean",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291539-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291541-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The second signal to check.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291543-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "right",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291531-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Second Boolean",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291507-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291553-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291555-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's turned on if one or both inputs are true.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291557-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "result",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291545-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291509-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Check if either one of 2 booleans are true.",
+                      "category": "Logic",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291515-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291513-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    20,
+                    116
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291501-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Or",
+              "propertyIdentifier": "",
+              "prototype": "builtin.binaryBoolOrOperator"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291561-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291563-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291583-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291585-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value to delay.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291587-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "input",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291575-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Input",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291597-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "maximumValue": {
+                            "type": 0,
+                            "value": 100
+                          },
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 2,
+                          "type": 0
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291599-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The number of seconds to wait.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": true,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291601-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": true,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "duration",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "identifier": "port_model:291589-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Duration",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291565-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291611-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 1,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291613-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The value after the delay has elapsed.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291615-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": true,
+                          "modelName": "port_metadata_model",
+                          "portName": "output",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291603-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291567-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Delays value by some time.",
+                      "category": "Math",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291573-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291571-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    -316,
+                    -196
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291559-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Delay",
+              "propertyIdentifier": "",
+              "prototype": "builtin.delay"
+            },
+            {
+              "children": [
+                {
+                  "identifier": "patches_model:291619-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patches_model"
+                },
+                {
+                  "identifier": "connections_model:291621-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "connections_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291641-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291643-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The first signal to check.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291645-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "left",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291633-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "First Boolean",
+                      "portTag": 1
+                    },
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291655-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291657-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "The second signal to check.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291659-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "right",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291647-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Second Boolean",
+                      "portTag": 2
+                    }
+                  ],
+                  "identifier": "patch_input_ports_model:291623-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_input_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "identifier": "port_value_type_info_model:291669-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_value_type_info_model",
+                          "rawSubtype": 0,
+                          "type": 4
+                        },
+                        {
+                          "identifier": "port_widget_style_info_model:291671-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "modelName": "port_widget_style_info_model",
+                          "widgetStyle": 0
+                        },
+                        {
+                          "about": "A signal that's turned on if one or both inputs are true.",
+                          "deprecateGatekeeperName": "",
+                          "gatekeeperName": "",
+                          "hidden": false,
+                          "hiddenConnection": false,
+                          "hiddenValue": false,
+                          "identifier": "port_metadata_model:291673-287f4489-6f10-48c5-9b17-793e1f453641",
+                          "isParameter": false,
+                          "isVariant": false,
+                          "modelName": "port_metadata_model",
+                          "portName": "result",
+                          "preferValueOverTitle": false
+                        }
+                      ],
+                      "defaultValue": {
+                        "type": 4,
+                        "value": false
+                      },
+                      "identifier": "port_model:291661-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "port_model",
+                      "name": "Output",
+                      "portTag": 100
+                    }
+                  ],
+                  "identifier": "patch_output_ports_model:291625-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "modelName": "patch_output_ports_model"
+                },
+                {
+                  "children": [
+                    {
+                      "about": "Check if either one of 2 booleans are true.",
+                      "category": "Logic",
+                      "excludeFromInsertMenu": false,
+                      "identifier": "patch_library_metadata_model:291631-287f4489-6f10-48c5-9b17-793e1f453641",
+                      "modelName": "patch_library_metadata_model"
+                    }
+                  ],
+                  "hidden": false,
+                  "identifier": "patch_metadata_model:291629-287f4489-6f10-48c5-9b17-793e1f453641",
+                  "internalGroup": false,
+                  "modelName": "patch_metadata_model",
+                  "position": [
+                    20,
+                    -196
+                  ],
+                  "preferredGenericType": 0
+                }
+              ],
+              "dataModelIdentifier": "",
+              "identifier": "patch_model:291617-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "patch_model",
+              "name": "Or",
+              "propertyIdentifier": "",
+              "prototype": "builtin.binaryBoolOrOperator"
+            }
+          ],
+          "identifier": "patches_model:408031-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+          "modelName": "patches_model"
+        },
+        {
+          "children": [
+            {
+              "fromPatch": "patch_model:408029-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408983-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:409053-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:408045-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "toPort": "port_model:408059-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe"
+            },
+            {
+              "fromPatch": "patch_model:408029-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408997-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:409057-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:408087-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "toPort": "port_model:408101-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe"
+            },
+            {
+              "fromPatch": "patch_model:408029-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:409011-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:409061-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:408129-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "toPort": "port_model:408143-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe"
+            },
+            {
+              "fromPatch": "patch_model:408029-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:409025-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:409063-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:408171-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "toPort": "port_model:408185-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe"
+            },
+            {
+              "fromPatch": "patch_model:408213-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408241-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:409067-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:408029-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "toPort": "port_model:409039-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe"
+            },
+            {
+              "fromPatch": "patch_model:408087-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408115-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291675-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:290923-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:290953-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:408171-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408199-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291687-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291241-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291257-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:408129-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408157-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291691-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:290995-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291025-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291299-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291343-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291697-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291125-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291141-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291125-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291155-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291699-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:408213-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "toPort": "port_model:408227-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe"
+            },
+            {
+              "fromPatch": "patch_model:408129-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408157-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291701-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291067-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291083-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291067-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291111-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291703-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:290995-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291039-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:408045-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408073-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291705-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291429-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291459-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:408171-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408199-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291711-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291357-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291387-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291241-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291285-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291713-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291357-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291401-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:408087-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408115-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291717-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291183-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291199-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291183-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291227-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291719-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:290923-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:290967-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:290995-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291053-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291721-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291501-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291517-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291357-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291415-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291723-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291501-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291531-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291501-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291545-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291725-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291299-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291329-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:408045-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "fromPort": "port_model:408073-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "identifier": "connection_model:291727-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291559-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291575-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291559-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291603-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291729-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291429-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291473-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291429-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291487-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291731-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291617-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291633-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:290923-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:290981-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291733-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291617-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291647-287f4489-6f10-48c5-9b17-793e1f453641"
+            },
+            {
+              "fromPatch": "patch_model:291617-287f4489-6f10-48c5-9b17-793e1f453641",
+              "fromPort": "port_model:291661-287f4489-6f10-48c5-9b17-793e1f453641",
+              "identifier": "connection_model:291735-287f4489-6f10-48c5-9b17-793e1f453641",
+              "modelName": "connection_model",
+              "toPatch": "patch_model:291299-287f4489-6f10-48c5-9b17-793e1f453641",
+              "toPort": "port_model:291315-287f4489-6f10-48c5-9b17-793e1f453641"
+            }
+          ],
+          "identifier": "connections_model:408033-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+          "modelName": "connections_model"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "identifier": "port_value_type_info_model:408991-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_value_type_info_model",
+                  "rawSubtype": 1,
+                  "type": 4
+                },
+                {
+                  "identifier": "port_widget_style_info_model:408993-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_widget_style_info_model",
+                  "widgetStyle": 0
+                },
+                {
+                  "about": "The value to delay.",
+                  "deprecateGatekeeperName": "",
+                  "enumOptions": [],
+                  "gatekeeperName": "",
+                  "hidden": false,
+                  "hiddenConnection": false,
+                  "hiddenValue": false,
+                  "identifier": "port_metadata_model:408995-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "isParameter": false,
+                  "isVariant": false,
+                  "modelName": "port_metadata_model",
+                  "portName": "input",
+                  "preferValueOverTitle": true
+                }
+              ],
+              "defaultValue": {
+                "type": 4,
+                "value": false
+              },
+              "identifier": "port_model:408983-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "port_model",
+              "name": "Pulse 1",
+              "portTag": 1
+            },
+            {
+              "children": [
+                {
+                  "identifier": "port_value_type_info_model:409005-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_value_type_info_model",
+                  "rawSubtype": 1,
+                  "type": 4
+                },
+                {
+                  "identifier": "port_widget_style_info_model:409007-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_widget_style_info_model",
+                  "widgetStyle": 0
+                },
+                {
+                  "about": "The value to delay.",
+                  "deprecateGatekeeperName": "",
+                  "enumOptions": [],
+                  "gatekeeperName": "",
+                  "hidden": false,
+                  "hiddenConnection": false,
+                  "hiddenValue": false,
+                  "identifier": "port_metadata_model:409009-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "isParameter": false,
+                  "isVariant": false,
+                  "modelName": "port_metadata_model",
+                  "portName": "input",
+                  "preferValueOverTitle": true
+                }
+              ],
+              "defaultValue": {
+                "type": 4,
+                "value": false
+              },
+              "identifier": "port_model:408997-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "port_model",
+              "name": "Pulse 2",
+              "portTag": 4634511236310095524
+            },
+            {
+              "children": [
+                {
+                  "identifier": "port_value_type_info_model:409019-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_value_type_info_model",
+                  "rawSubtype": 1,
+                  "type": 4
+                },
+                {
+                  "identifier": "port_widget_style_info_model:409021-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_widget_style_info_model",
+                  "widgetStyle": 0
+                },
+                {
+                  "about": "A pulse that turns the switch on. If the switch is already on, the pulse has no effect.",
+                  "deprecateGatekeeperName": "",
+                  "enumOptions": [],
+                  "gatekeeperName": "",
+                  "hidden": false,
+                  "hiddenConnection": false,
+                  "hiddenValue": false,
+                  "identifier": "port_metadata_model:409023-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "isParameter": false,
+                  "isVariant": false,
+                  "modelName": "port_metadata_model",
+                  "portName": "turnon",
+                  "preferValueOverTitle": false
+                }
+              ],
+              "defaultValue": {
+                "type": 4,
+                "value": false
+              },
+              "identifier": "port_model:409011-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "port_model",
+              "name": "Pulse 3",
+              "portTag": 2
+            },
+            {
+              "children": [
+                {
+                  "identifier": "port_value_type_info_model:409033-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_value_type_info_model",
+                  "rawSubtype": 1,
+                  "type": 4
+                },
+                {
+                  "identifier": "port_widget_style_info_model:409035-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_widget_style_info_model",
+                  "widgetStyle": 0
+                },
+                {
+                  "about": "A pulse that turns the switch on. If the switch is already on, the pulse has no effect.",
+                  "deprecateGatekeeperName": "",
+                  "enumOptions": [],
+                  "gatekeeperName": "",
+                  "hidden": false,
+                  "hiddenConnection": false,
+                  "hiddenValue": false,
+                  "identifier": "port_metadata_model:409037-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "isParameter": false,
+                  "isVariant": false,
+                  "modelName": "port_metadata_model",
+                  "portName": "turnon",
+                  "preferValueOverTitle": false
+                }
+              ],
+              "defaultValue": {
+                "type": 4,
+                "value": false
+              },
+              "identifier": "port_model:409025-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "port_model",
+              "name": "Pulse 4",
+              "portTag": 6751951877780229845
+            }
+          ],
+          "identifier": "patch_input_ports_model:408035-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+          "modelName": "patch_input_ports_model"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "identifier": "port_value_type_info_model:409047-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_value_type_info_model",
+                  "rawSubtype": 1,
+                  "type": 4
+                },
+                {
+                  "identifier": "port_widget_style_info_model:409049-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "modelName": "port_widget_style_info_model",
+                  "widgetStyle": 0
+                },
+                {
+                  "about": "A pulse that is output when the input turns on.",
+                  "deprecateGatekeeperName": "",
+                  "enumOptions": [],
+                  "gatekeeperName": "",
+                  "hidden": false,
+                  "hiddenConnection": false,
+                  "hiddenValue": false,
+                  "identifier": "port_metadata_model:409051-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+                  "isParameter": false,
+                  "isVariant": false,
+                  "modelName": "port_metadata_model",
+                  "portName": "onEvent",
+                  "preferValueOverTitle": false
+                }
+              ],
+              "defaultValue": {
+                "type": 4,
+                "value": false
+              },
+              "identifier": "port_model:409039-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "port_model",
+              "name": "Pulse",
+              "portTag": 100
+            }
+          ],
+          "identifier": "patch_output_ports_model:408037-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+          "modelName": "patch_output_ports_model"
+        },
+        {
+          "children": [
+            {
+              "about": "Combine multiple pulse inputs into one pulse output. A pulse from any input will emit a pulse from the output. You can use multiple instances of this patch if you need more than 4 inputs.",
+              "excludeFromInsertMenu": false,
+              "identifier": "patch_library_metadata_model:408043-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+              "modelName": "patch_library_metadata_model"
+            }
+          ],
+          "hidden": false,
+          "identifier": "patch_metadata_model:408041-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+          "internalGroup": false,
+          "modelName": "patch_metadata_model",
+          "position": [
+            -4,
+            2612
+          ],
+          "preferredGenericType": 0
+        }
+      ],
+      "identifier": "patch_model:408029-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+      "masterAssetChecksum": "f964ccafb5663e15c8bfdb28108e5b3e",
+      "masterAssetIdentifier": "patch_data_base_model:290119-287f4489-6f10-48c5-9b17-793e1f453641",
+      "modelName": "patch_model",
+      "name": "Pulse Multiplexer"
+    }
+  ],
+  "identifier": "patch_graph_model:409103-77cc9141-48a4-40e6-a8ae-1e72e8dc95fe",
+  "modelName": "patch_graph_model",
+  "valuesMap": {
+    "port_model:291097-287f4489-6f10-48c5-9b17-793e1f453641": {
+      "type": 0,
+      "value": 0.01
+    },
+    "port_model:291213-287f4489-6f10-48c5-9b17-793e1f453641": {
+      "type": 0,
+      "value": 0.01
+    },
+    "port_model:291271-287f4489-6f10-48c5-9b17-793e1f453641": {
+      "type": 0,
+      "value": 0.01
+    },
+    "port_model:291589-287f4489-6f10-48c5-9b17-793e1f453641": {
+      "type": 0,
+      "value": 0.01
+    }
+  },
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 170
+  }
+}

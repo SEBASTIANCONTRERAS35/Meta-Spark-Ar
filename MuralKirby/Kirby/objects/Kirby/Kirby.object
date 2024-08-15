@@ -1,0 +1,585 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Kirby",
+  "identifier": "master3_d_object_model:823355-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "sourceIdentifier": "asset_collection_model:823359-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.10708087682723999,
+  "globalScaleFactor": 1,
+  "height": 0.12807758152484894,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.15000003576278687,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Light",
+      "identifier": "sceneObject:823318-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.3119752407073975,
+        "ry": 1.2702372074127197,
+        "rz": -2.95408034324646,
+        "sx": 100.00000762939453,
+        "sy": 100.00000762939453,
+        "sz": 100,
+        "x": 4.076245307922363,
+        "y": 5.903861999511719,
+        "z": -1.0054539442062378
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "Camera",
+      "identifier": "sceneObject:823320-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.744202136993408,
+        "ry": 0.6613346338272095,
+        "rz": -2.5420982837677,
+        "sx": 100,
+        "sy": 100.00000762939453,
+        "sz": 99.99999237060547,
+        "x": 7.358891487121582,
+        "y": 4.958309173583984,
+        "z": 6.925790786743164
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "Kirby_Armature",
+      "identifier": "sceneObject:823322-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -1.5533431768417358,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "skeleton",
+          "name": "skeleton",
+          "identifier": "skeleton:823306-ca615320-abe2-4618-a743-21fe9ca12f4c",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "inverseBindMatrices": [
+            {
+              "m11": 1,
+              "m12": 6.19888282926695E-8,
+              "m13": 1.7881415459441996E-8,
+              "m14": 0,
+              "m21": -1.7881392366803084E-8,
+              "m22": 3.4458935260772705E-7,
+              "m23": -1.0000001192092896,
+              "m24": 0,
+              "m31": 1.4305114426349519E-8,
+              "m32": 1.0000001192092896,
+              "m33": 4.116445779800415E-7,
+              "m34": 0,
+              "m41": 5.960464326965065E-12,
+              "m42": -0.00034115210291929543,
+              "m43": -1.35362152042795E-10,
+              "m44": 1
+            },
+            {
+              "m11": 0.05074506998062134,
+              "m12": -0.9971243143081665,
+              "m13": -0.05628013238310814,
+              "m14": 0,
+              "m21": 0.9987087249755859,
+              "m22": 0.05079728364944458,
+              "m23": 0.0005013133049942553,
+              "m24": 0,
+              "m31": 0.0023589495103806257,
+              "m32": -0.0562329962849617,
+              "m33": 0.9984147548675537,
+              "m34": 0,
+              "m41": -0.000001681816343079845,
+              "m42": 0.00004008763062302023,
+              "m43": -0.000711754837539047,
+              "m44": 1
+            },
+            {
+              "m11": -0.3001064658164978,
+              "m12": -0.5578994154930115,
+              "m13": -0.7737468481063843,
+              "m14": 0,
+              "m21": 0.9264841675758362,
+              "m22": 0.022612767294049263,
+              "m23": -0.37565264105796814,
+              "m24": 0,
+              "m31": 0.22707293927669525,
+              "m32": -0.82960045337677,
+              "m33": 0.510098934173584,
+              "m34": 0,
+              "m41": -0.00016187703295145184,
+              "m42": 0.0005914096836932003,
+              "m43": -0.0003636417386587709,
+              "m44": 1
+            },
+            {
+              "m11": 0.05074510723352432,
+              "m12": 0.9971243143081665,
+              "m13": 0.05628025904297829,
+              "m14": 0,
+              "m21": -0.9987087249755859,
+              "m22": 0.050797246396541595,
+              "m23": 0.0005013113259337842,
+              "m24": 0,
+              "m31": -0.002358948113396764,
+              "m32": -0.05623296648263931,
+              "m33": 0.9984147548675537,
+              "m34": 0,
+              "m41": 0.0000016818169115140336,
+              "m42": 0.00004008764153695665,
+              "m43": -0.000711754837539047,
+              "m44": 1
+            },
+            {
+              "m11": -0.3001064658164978,
+              "m12": 0.5578992962837219,
+              "m13": 0.7737469673156738,
+              "m14": 0,
+              "m21": -0.9264841675758362,
+              "m22": 0.02261274866759777,
+              "m23": -0.3756526708602905,
+              "m24": 0,
+              "m31": -0.22707293927669525,
+              "m32": -0.82960045337677,
+              "m33": 0.510098934173584,
+              "m34": 0,
+              "m41": 0.00016187703295145184,
+              "m42": 0.0005914096836932003,
+              "m43": -0.0003636417386587709,
+              "m44": 1
+            }
+          ],
+          "jointIdentifiers": [
+            "joint:823324-ca615320-abe2-4618-a743-21fe9ca12f4c",
+            "joint:823326-ca615320-abe2-4618-a743-21fe9ca12f4c",
+            "joint:823330-ca615320-abe2-4618-a743-21fe9ca12f4c",
+            "joint:823334-ca615320-abe2-4618-a743-21fe9ca12f4c",
+            "joint:823338-ca615320-abe2-4618-a743-21fe9ca12f4c"
+          ],
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "joint",
+              "name": "BAse",
+              "identifier": "joint:823324-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "tags": [],
+              "transform": {
+                "rx": 1.5707957744598389,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0.0003411520447116345
+              },
+              "children": [
+                {
+                  "modelName": "joint",
+                  "name": "Arm.R",
+                  "identifier": "joint:823326-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": -2.9184868335723877,
+                    "ry": 1.1956312656402588,
+                    "rz": -1.8009989261627197,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0.0003717328072525561,
+                    "z": 1.776356799695581E-17
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Arm.R_end",
+                      "identifier": "sceneObject:823328-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "UI",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.0003717328072525561,
+                        "z": 0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "modelName": "joint",
+                  "name": "Foot.R",
+                  "identifier": "joint:823330-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 2.4172966480255127,
+                    "ry": 0.4981454908847809,
+                    "rz": -1.4366906881332397,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0.0003717328072525561,
+                    "z": 1.776356799695581E-17
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Foot.R_end",
+                      "identifier": "sceneObject:823332-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "UI",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.000371732865460217,
+                        "z": 0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "modelName": "joint",
+                  "name": "Arm.L",
+                  "identifier": "joint:823334-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": -2.9652435779571533,
+                    "ry": -1.316383719444275,
+                    "rz": 1.0427117347717285,
+                    "sx": 0.9999999403953552,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.9999999403953552,
+                    "x": 0,
+                    "y": 0.0003717328072525561,
+                    "z": 1.776356799695581E-17
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Arm.L_end",
+                      "identifier": "sceneObject:823336-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "UI",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.0003717328072525561,
+                        "z": 0
+                      }
+                    }
+                  ]
+                },
+                {
+                  "modelName": "joint",
+                  "name": "Foot.L",
+                  "identifier": "joint:823338-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.7330169677734375,
+                    "ry": -0.9365343451499939,
+                    "rz": -1.7895466089248657,
+                    "sx": 1,
+                    "sy": 0.9999999403953552,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0.0003717328072525561,
+                    "z": 1.776356799695581E-17
+                  },
+                  "children": [
+                    {
+                      "modelName": "sceneObject",
+                      "name": "Foot.L_end",
+                      "identifier": "sceneObject:823340-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "UI",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "shapeColor": "0xff808080",
+                      "shapeType": 0,
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.000371732865460217,
+                        "z": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "Kirby",
+      "identifier": "mesh:823342-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "Kirby",
+      "numberOfFaces": 5440,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:823346-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:823306-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "tags": [],
+      "transform": {
+        "rx": -1.5533431768417358,
+        "ry": 3.675845405837208E-8,
+        "rz": 4.2061774507828886E-8,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:823344-ca615320-abe2-4618-a743-21fe9ca12f4c",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:823349-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:823324-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823326-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823330-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823334-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823338-ca615320-abe2-4618-a743-21fe9ca12f4c"
+              ],
+              "materialIdentifier": "dependent_material_model:823308-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "surfaceGroupIdentifier": "823350-ca615320-abe2-4618-a743-21fe9ca12f4c"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:823352-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:823324-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823326-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823330-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823334-ca615320-abe2-4618-a743-21fe9ca12f4c",
+                "joint:823338-ca615320-abe2-4618-a743-21fe9ca12f4c"
+              ],
+              "materialIdentifier": "dependent_material_model:823312-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "surfaceGroupIdentifier": "823353-ca615320-abe2-4618-a743-21fe9ca12f4c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

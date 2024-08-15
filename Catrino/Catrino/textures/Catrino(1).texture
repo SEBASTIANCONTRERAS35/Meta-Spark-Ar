@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Catrino(1)",
+  "identifier": "texture:93358-f68d9aca-94e7-4a4b-8a19-a1732eecf3df",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5e66e0ba3859c706d75b49795516254d",
+  "assetLocator": "textures/Catrino(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5e66e0ba3859c706d75b49795516254d",
+      "colorCount": 4772,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.516683036385906,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

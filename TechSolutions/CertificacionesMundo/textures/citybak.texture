@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "citybak",
+  "identifier": "texture:1146794-92679b34-ac5a-41c7-935a-3009119e2672",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "386a7a8c24585bd4d48c596057408a47",
+  "assetLocator": "textures/citybak.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 710,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 920,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "386a7a8c24585bd4d48c596057408a47",
+      "colorCount": 8,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.535748322852126,
+      "pixelsHigh": 710,
+      "pixelsWide": 920
+    }
+  ]
+}

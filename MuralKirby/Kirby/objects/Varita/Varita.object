@@ -1,0 +1,154 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Varita",
+  "identifier": "master3_d_object_model:823526-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "sourceIdentifier": "asset_collection_model:823530-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.4221649765968323,
+  "globalScaleFactor": 0.47881762309281667,
+  "height": 4.176955699920654,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 1.9715800285339355,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Light",
+      "identifier": "sceneObject:823509-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.3119752407073975,
+        "ry": 1.2702372074127197,
+        "rz": -2.95408034324646,
+        "sx": 100.00000762939453,
+        "sy": 100.00000762939453,
+        "sz": 100,
+        "x": 1.9517780542373657,
+        "y": 2.8268730640411377,
+        "z": -0.4814290702342987
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "Camera",
+      "identifier": "sceneObject:823511-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.744202136993408,
+        "ry": 0.6613346338272095,
+        "rz": -2.5420982837677,
+        "sx": 100,
+        "sy": 100.00000762939453,
+        "sz": 99.99999237060547,
+        "x": 3.523566961288452,
+        "y": 2.3741257190704346,
+        "z": 3.316190719604492
+      }
+    },
+    {
+      "modelName": "mesh",
+      "name": "StarWand",
+      "identifier": "mesh:823513-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "StarWand",
+      "numberOfFaces": 240,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:823517-ca615320-abe2-4618-a743-21fe9ca12f4c",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:823515-ca615320-abe2-4618-a743-21fe9ca12f4c",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:823520-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:823501-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "surfaceGroupIdentifier": "823521-ca615320-abe2-4618-a743-21fe9ca12f4c"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:823523-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:823503-ca615320-abe2-4618-a743-21fe9ca12f4c",
+              "surfaceGroupIdentifier": "823524-ca615320-abe2-4618-a743-21fe9ca12f4c"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:2372823-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+        }
+      ]
+    }
+  ]
+}

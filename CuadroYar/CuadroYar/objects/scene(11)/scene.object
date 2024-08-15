@@ -1,0 +1,893 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Gibthom Hello",
+  "identifier": "master3_d_object_model:548439-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+  "sourceIdentifier": "asset_collection_model:548461-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 18.303916931152344,
+  "globalScaleFactor": 0.10541775834250457,
+  "height": 11.791735649108887,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707961320877075,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 18.972135543823242,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Root",
+      "identifier": "sceneObject:548359-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "skeleton",
+          "name": "skeleton",
+          "identifier": "skeleton:548341-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "inverseBindMatrices": [
+            {
+              "m11": 0.9999997615814209,
+              "m12": -0,
+              "m13": 0,
+              "m14": -0,
+              "m21": -0,
+              "m22": 0,
+              "m23": -1,
+              "m24": 0,
+              "m31": 0,
+              "m32": 0.9999997615814209,
+              "m33": 0,
+              "m34": -0,
+              "m41": -0,
+              "m42": 0.028522957116365433,
+              "m43": -0,
+              "m44": 1
+            },
+            {
+              "m11": 0.9996799826622009,
+              "m12": 0.025119999423623085,
+              "m13": -0,
+              "m14": -0,
+              "m21": 0,
+              "m22": -0,
+              "m23": -1,
+              "m24": 0,
+              "m31": -0.025119999423623085,
+              "m32": 0.9996799826622009,
+              "m33": -0,
+              "m34": -0,
+              "m41": 0.006080397870391607,
+              "m42": 0.09101065248250961,
+              "m43": 0,
+              "m44": 1
+            },
+            {
+              "m11": 0.24175000190734863,
+              "m12": 0.9703400135040283,
+              "m13": 0,
+              "m14": -0,
+              "m21": -0,
+              "m22": 0,
+              "m23": -1,
+              "m24": 0,
+              "m31": -0.9703400135040283,
+              "m32": 0.24175000190734863,
+              "m33": 0,
+              "m34": -0,
+              "m41": 0.017713507637381554,
+              "m42": -0.018175659701228142,
+              "m43": -0,
+              "m44": 1
+            },
+            {
+              "m11": -0,
+              "m12": 0.29175999760627747,
+              "m13": -0.9564899802207947,
+              "m14": -0,
+              "m21": -1,
+              "m22": -0,
+              "m23": 0,
+              "m24": 0,
+              "m31": 0,
+              "m32": 0.9564899802207947,
+              "m33": 0.29175999760627747,
+              "m34": -0,
+              "m41": -0,
+              "m42": -0.041027266532182693,
+              "m43": 0.03396773338317871,
+              "m44": 1
+            },
+            {
+              "m11": -0.9045299887657166,
+              "m12": -0.42640000581741333,
+              "m13": -0,
+              "m14": 0,
+              "m21": 0,
+              "m22": 0,
+              "m23": -1,
+              "m24": 0,
+              "m31": 0.42640000581741333,
+              "m32": -0.9045400023460388,
+              "m33": 0,
+              "m34": -0,
+              "m41": -0.03174605220556259,
+              "m42": 0.009868438355624676,
+              "m43": -0,
+              "m44": 1
+            },
+            {
+              "m11": 0,
+              "m12": -0.39761000871658325,
+              "m13": -0.9175599813461304,
+              "m14": -0,
+              "m21": 1,
+              "m22": 0,
+              "m23": 0,
+              "m24": -0,
+              "m31": 0,
+              "m32": -0.9175599813461304,
+              "m33": 0.39761000871658325,
+              "m34": -0,
+              "m41": -0,
+              "m42": -0.023532629013061523,
+              "m43": -0.03250588849186897,
+              "m44": 1
+            },
+            {
+              "m11": 1,
+              "m12": -0,
+              "m13": -0,
+              "m14": -0,
+              "m21": -0,
+              "m22": -0,
+              "m23": -1,
+              "m24": 0,
+              "m31": 0,
+              "m32": 1,
+              "m33": -0,
+              "m34": -0,
+              "m41": 0.005429783836007118,
+              "m42": -0.025965044274926186,
+              "m43": 0,
+              "m44": 1
+            }
+          ],
+          "jointIdentifiers": [
+            "joint:548377-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+            "joint:548405-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+            "joint:548407-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+            "joint:548409-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+            "joint:548411-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+            "joint:548413-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+            "joint:548415-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+          ],
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "Armature.001",
+              "identifier": "sceneObject:548401-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0.0030915974639356136,
+                "y": 0.0028997105546295643,
+                "z": -0.01771307736635208
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Armature.001_rootJoint",
+                  "identifier": "sceneObject:548403-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "children": [
+                    {
+                      "modelName": "joint",
+                      "name": "Bone.005_Armature.001",
+                      "identifier": "joint:548405-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707964897155762,
+                        "ry": 0.025122759863734245,
+                        "rz": -1.0603309896772828E-11,
+                        "sx": 0.9999955296516418,
+                        "sy": 0.9999956488609314,
+                        "sz": 1.0000001192092896,
+                        "x": -0.008364616893231869,
+                        "y": 0,
+                        "z": -0.09082946926355362
+                      },
+                      "children": [
+                        {
+                          "modelName": "joint",
+                          "name": "Bone_Armature.001",
+                          "identifier": "joint:548407-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": -0,
+                            "rz": -1.3015035390853882,
+                            "sx": 1.0000007152557373,
+                            "sy": 1.0000007152557373,
+                            "sz": 1,
+                            "x": 0.018888382241129875,
+                            "y": 0.11292167752981186,
+                            "z": 0
+                          },
+                          "children": [
+                            {
+                              "modelName": "joint",
+                              "name": "Bone.001_Armature.001",
+                              "identifier": "joint:548409-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                              "animationMask": {
+                                "position": true,
+                                "rotation": true,
+                                "scale": true
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "tags": [],
+                              "transform": {
+                                "rx": 0,
+                                "ry": -1.570796251296997,
+                                "rz": 1.0305689573287964,
+                                "sx": 1.0000001192092896,
+                                "sy": 0.9999979734420776,
+                                "sz": 0.9999980330467224,
+                                "x": 0,
+                                "y": 0.03205658122897148,
+                                "z": 0
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "joint",
+                          "name": "Bone.003_Armature.001",
+                          "identifier": "joint:548411-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": -0,
+                            "rz": 2.7262094020843506,
+                            "sx": 0.9999985694885254,
+                            "sy": 0.9999985098838806,
+                            "sz": 1,
+                            "x": -0.018983468413352966,
+                            "y": 0.11285056918859482,
+                            "z": 0
+                          },
+                          "children": [
+                            {
+                              "modelName": "joint",
+                              "name": "Bone.004_Armature.001",
+                              "identifier": "joint:548413-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                              "animationMask": {
+                                "position": true,
+                                "rotation": true,
+                                "scale": true
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "tags": [],
+                              "transform": {
+                                "rx": 0,
+                                "ry": 1.570796251296997,
+                                "rz": 0.03159528225660324,
+                                "sx": 1,
+                                "sy": 0.9999991059303284,
+                                "sz": 0.9999991059303284,
+                                "x": 0,
+                                "y": 0.03441660851240158,
+                                "z": 0
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "joint",
+                          "name": "Bone.002_Armature.001",
+                          "identifier": "joint:548415-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 0,
+                            "ry": -0,
+                            "rz": 0.025122759863734245,
+                            "sx": 0.9999955296516418,
+                            "sy": 0.9999955296516418,
+                            "sz": 1,
+                            "x": 0,
+                            "y": 0.11683134734630585,
+                            "z": 0
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "Cylinder.003_0",
+                  "identifier": "mesh:548417-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Cylinder.003_0",
+                  "numberOfFaces": 966,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:548421-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "skeletonIdentifier": "skeleton:548341-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:548419-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:548424-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "isMaterialIdentifierEnabled": true,
+                          "joints": [
+                            "joint:548405-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548407-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548409-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548411-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548413-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548415-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                          ],
+                          "materialIdentifier": "dependent_material_model:548353-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "surfaceGroupIdentifier": "548425-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "Cylinder.003_1",
+                  "identifier": "mesh:548427-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Cylinder.003_1",
+                  "numberOfFaces": 966,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:548431-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "skeletonIdentifier": "skeleton:548341-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:548429-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:548434-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "isMaterialIdentifierEnabled": true,
+                          "joints": [
+                            "joint:548405-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548407-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548409-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548411-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548413-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                            "joint:548415-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                          ],
+                          "materialIdentifier": "dependent_material_model:548351-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "surfaceGroupIdentifier": "548435-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "Cylinder.003",
+                  "identifier": "sceneObject:548437-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": -0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.002478674752637744,
+                    "y": -0.0028997105546295643,
+                    "z": 0.0003854858805425465
+                  }
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Armature",
+              "identifier": "sceneObject:548373-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1.0876200199127197,
+                "sy": 1.0876200199127197,
+                "sz": 1,
+                "x": 0.28223609924316406,
+                "y": 0.06769989430904388,
+                "z": -0.06954336166381836
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Armature_rootJoint",
+                  "identifier": "sceneObject:548375-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "children": [
+                    {
+                      "modelName": "joint",
+                      "name": "Bone_Armature",
+                      "identifier": "joint:548377-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.5707964897155762,
+                        "ry": -0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1.0000001192092896,
+                        "sz": 1.0000001192092896,
+                        "x": 0,
+                        "y": 0,
+                        "z": -0.028522957116365433
+                      }
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "Text_0",
+                  "identifier": "mesh:548379-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Text_0",
+                  "numberOfFaces": 17216,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:548383-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "skeletonIdentifier": "skeleton:548341-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:548381-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:548386-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "isMaterialIdentifierEnabled": true,
+                          "joints": [
+                            "joint:548377-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                          ],
+                          "materialIdentifier": "dependent_material_model:548347-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "surfaceGroupIdentifier": "548387-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "Text_1",
+                  "identifier": "mesh:548389-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Text_1",
+                  "numberOfFaces": 17216,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:548393-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "skeletonIdentifier": "skeleton:548341-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:548391-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:548396-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "isMaterialIdentifierEnabled": true,
+                          "joints": [
+                            "joint:548377-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                          ],
+                          "materialIdentifier": "dependent_material_model:548351-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "surfaceGroupIdentifier": "548397-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "Text",
+                  "identifier": "sceneObject:548399-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 1.5707963705062866,
+                    "ry": 0,
+                    "rz": 0.02048143744468689,
+                    "sx": 0.9999997615814209,
+                    "sy": 1,
+                    "sz": 0.9999997615814209,
+                    "x": -0.17512069642543793,
+                    "y": 0.016299201175570488,
+                    "z": -0.044282905757427216
+                  }
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Sphere",
+              "identifier": "sceneObject:548361-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0.4747374355792999
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "Sphere_0",
+                  "identifier": "mesh:548363-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Sphere_0",
+                  "numberOfFaces": 62,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:548367-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:548365-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:548370-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_material_model:548343-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+                          "surfaceGroupIdentifier": "548371-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

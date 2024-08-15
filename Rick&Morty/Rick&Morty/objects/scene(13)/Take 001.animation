@@ -1,0 +1,39 @@
+{
+  "modelName": "animation_model",
+  "name": "Take 001",
+  "identifier": "animation_model:1544317-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "sourceIdentifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "assetLocator": "ceadb0d59d454a332978b94290defacd.glb",
+  "duration": 0.33333334350585936,
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "ticksPerSecond": 1000,
+  "children": [
+    {
+      "modelName": "animation_channels_model",
+      "identifier": "animation_channels_model:1544319-2db8d888-e8af-407b-972d-14f887c96a8c"
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model0",
+      "identifier": "animation_channel_model:1544321-2db8d888-e8af-407b-972d-14f887c96a8c",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model1",
+      "identifier": "animation_channel_model:1544323-2db8d888-e8af-407b-972d-14f887c96a8c",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    }
+  ]
+}

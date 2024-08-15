@@ -1,0 +1,258 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Eye Implant",
+  "identifier": "master3_d_object_model:1609413-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+  "sourceIdentifier": "asset_collection_model:1609417-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 199.90377807617188,
+  "globalScaleFactor": 0.0042519616890051015,
+  "height": 199.83709716796875,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 4.192289182469722E-9,
+    "rz": -0.09026151895523071,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 1,
+    "x": -0.5259372591972351,
+    "y": -11.645586967468262,
+    "z": -2.5858397573115836E-15
+  },
+  "width": 470.3711242675781,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "eye_model.fbx",
+      "identifier": "sceneObject:1609385-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:1609387-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "eye",
+              "identifier": "sceneObject:1609389-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707964897155762,
+                "ry": 0,
+                "rz": 0,
+                "sx": 100,
+                "sy": 100,
+                "sz": 100,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "eye_eye_material_0",
+                  "identifier": "mesh:1609391-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "eye_eye_material_0",
+                  "numberOfFaces": 12200,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1609395-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1609393-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1609398-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1609371-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                          "surfaceGroupIdentifier": "1609399-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "sclera",
+              "identifier": "sceneObject:1609401-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707964897155762,
+                "ry": 0,
+                "rz": 0,
+                "sx": 100,
+                "sy": 100,
+                "sz": 100,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "sclera_sclera_material_0",
+                  "identifier": "mesh:1609403-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "sclera_sclera_material_0",
+                  "numberOfFaces": 9808,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1609407-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1609405-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1609410-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1609381-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38",
+                          "surfaceGroupIdentifier": "1609411-d8d5d2c5-3c51-4e4d-b8a1-cfaeb4cb4e38"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

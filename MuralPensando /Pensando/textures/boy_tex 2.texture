@@ -1,0 +1,36 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "boy_tex",
+  "identifier": "dependent_texture_model:1951945-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+  "sourceIdentifier": "asset_collection_model:1901646-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "46482499e445e04d8b102113baa08249.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 124,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "originalFileHash": "46482499e445e04d8b102113baa08249",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 124,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "46482499e445e04d8b102113baa08249",
+      "colorCount": 1418,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.359250227495095,
+      "pixelsHigh": 124,
+      "pixelsWide": 124
+    }
+  ]
+}

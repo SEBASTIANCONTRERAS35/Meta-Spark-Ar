@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Fotos 2",
+  "identifier": "texture:573429-3145ccf4-94b7-4875-80ad-00f0539d4156",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f5bd9d670458c468a619b618dad96dca",
+  "assetLocator": "textures/Fotos 2.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:574335-d8801428-fa37-4eaf-9888-2b7124cde8c3",
+    "textureExportConfig:579693-d8801428-fa37-4eaf-9888-2b7124cde8c3",
+    "textureExportConfig:585053-d8801428-fa37-4eaf-9888-2b7124cde8c3"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 755,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f5bd9d670458c468a619b618dad96dca",
+      "colorCount": 289988,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 13.435662719207027,
+      "pixelsHigh": 1024,
+      "pixelsWide": 755
+    }
+  ]
+}

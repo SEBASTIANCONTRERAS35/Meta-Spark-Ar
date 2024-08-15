@@ -1,0 +1,2543 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "engineeranimated",
+  "identifier": "master3_d_object_model:2900241-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+  "sourceIdentifier": "asset_collection_model:2900303-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.7699788212776184,
+  "globalScaleFactor": 0.5493725569657657,
+  "height": 2.9301934242248535,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 3.640516757965088,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Light",
+      "identifier": "sceneObject:2900048-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.3119754791259766,
+        "ry": 1.2702375650405884,
+        "rz": -2.95408034324646,
+        "sx": 397.3368835449219,
+        "sy": 397.3368835449219,
+        "sz": 397.3370056152344,
+        "x": 0.7655740976333618,
+        "y": 1.8570785522460938,
+        "z": 0.9160988926887512
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "Light.001",
+      "identifier": "sceneObject:2900050-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.3119754791259766,
+        "ry": 1.2702375650405884,
+        "rz": -2.95408034324646,
+        "sx": 397.3368835449219,
+        "sy": 397.3368835449219,
+        "sz": 397.3370056152344,
+        "x": -1.1015797853469849,
+        "y": 1.610355019569397,
+        "z": -1.7663543224334717
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "Light.002",
+      "identifier": "sceneObject:2900052-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.3119754791259766,
+        "ry": 1.2702375650405884,
+        "rz": -2.95408034324646,
+        "sx": 397.3368835449219,
+        "sy": 397.3368835449219,
+        "sz": 397.3370056152344,
+        "x": 1.4349501132965088,
+        "y": 2.626737117767334,
+        "z": -2.6965932846069336
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "Camera",
+      "identifier": "sceneObject:2900054-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -1.4915587902069092,
+        "ry": 1.4262295961380005,
+        "rz": -1.4924113750457764,
+        "sx": 100,
+        "sy": 99.99999237060547,
+        "sz": 100.00000762939453,
+        "x": 0,
+        "y": 1.7960166931152344,
+        "z": 3.7746448516845703
+      }
+    },
+    {
+      "modelName": "mesh",
+      "name": "ботинок",
+      "identifier": "mesh:2900056-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "ботинок",
+      "numberOfFaces": 38912,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900060-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:2900008-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "tags": [],
+      "transform": {
+        "rx": -0.9985163807868958,
+        "ry": 0.0017547239549458027,
+        "rz": 0.007378976326435804,
+        "sx": 8.048548698425293,
+        "sy": 1.5882554054260254,
+        "sz": 0.25381797552108765,
+        "x": 0,
+        "y": 0.6119067668914795,
+        "z": -1.6372577960055423E-8
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900058-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900063-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900185-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900187-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900189-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900193-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900199-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900201-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900203-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900207-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900014-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900064-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:2900066-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900185-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900187-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900189-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900193-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900199-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900201-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900203-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900207-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900016-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900067-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "глаза",
+      "identifier": "mesh:2900069-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "глаза",
+      "numberOfFaces": 96832,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900073-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": -1.1852781772613525,
+        "sy": -1.1120864152908325,
+        "sz": -2.4430899620056152,
+        "x": 0.03913396969437599,
+        "y": 1.4133518934249878,
+        "z": 0.0992979109287262
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900071-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900076-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900018-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900077-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:2900079-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900018-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900077-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface2",
+              "identifier": "surface:2900081-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900020-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900082-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface3",
+              "identifier": "surface:2900084-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900022-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900085-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface4",
+              "identifier": "surface:2900087-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900024-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900088-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface5",
+              "identifier": "surface:2900090-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900026-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900091-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface6",
+              "identifier": "surface:2900093-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900028-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900094-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:457639-704cb87b-1b1b-4e7e-b0c7-d9aaacb5fbc9"
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "жилетка",
+      "identifier": "mesh:2900096-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "жилетка",
+      "numberOfFaces": 17248,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900100-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:2900010-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0.611906886100769,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900098-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900103-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900143-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900145-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900147-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900149-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900151-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900155-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900157-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900165-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900167-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900030-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900104-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:2900106-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900143-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900145-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900147-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900149-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900151-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900155-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900157-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900165-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900167-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900032-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900107-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "ноги",
+      "identifier": "mesh:2900109-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "ноги",
+      "numberOfFaces": 248,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900113-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:2900012-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 7.07097053527832,
+        "sy": 8.509572982788086,
+        "sz": 49.86735916137695,
+        "x": -4.093144490013856E-9,
+        "y": 0.611906886100769,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900111-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900116-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900185-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900199-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900034-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900117-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:457629-704cb87b-1b1b-4e7e-b0c7-d9aaacb5fbc9"
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "туловище",
+      "identifier": "mesh:2900119-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "туловище",
+      "numberOfFaces": 7630,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900123-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:2900010-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0.611906886100769,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900121-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900126-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900143-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900145-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900147-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900149-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900151-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900155-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900157-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900159-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900161-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900165-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900167-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900169-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900171-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900022-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900127-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "штаны",
+      "identifier": "mesh:2900129-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "штаны",
+      "numberOfFaces": 352,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900133-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:2900010-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0.611906886100769,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900131-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900136-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900034-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900137-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:457633-704cb87b-1b1b-4e7e-b0c7-d9aaacb5fbc9"
+        }
+      ]
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "metarig",
+      "identifier": "sceneObject:2900139-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 132.56761169433594,
+        "sy": 132.56761169433594,
+        "sz": 132.56761169433594,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "skeleton",
+          "name": "skeleton0",
+          "identifier": "skeleton:2900008-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "inverseBindMatrices": [
+            {
+              "m11": 0.06070593744516373,
+              "m12": -0.0009078408475033939,
+              "m13": 0.00008957167301559821,
+              "m14": 0,
+              "m21": -0.00011342779907863587,
+              "m22": -0.006598230917006731,
+              "m23": 0.00999938603490591,
+              "m24": 0,
+              "m31": -0.000022339341740007512,
+              "m32": -0.0015978447627276182,
+              "m33": -0.0010546091943979263,
+              "m34": 0,
+              "m41": -0.0005287534440867603,
+              "m42": 0.0012781727127730846,
+              "m43": -0.00005392021921579726,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": 0.060711707919836044,
+              "m12": -0.0003496284771244973,
+              "m13": 0.0000911753813852556,
+              "m14": 0,
+              "m21": -0.00005372642044676468,
+              "m22": -0.006748035084456205,
+              "m23": 0.009899413213133812,
+              "m24": 0,
+              "m31": -0.000007491034921258688,
+              "m32": -0.0015820066910237074,
+              "m33": -0.001078427885659039,
+              "m34": 0,
+              "m41": -0.0005130063509568572,
+              "m42": -0.0017090248875319958,
+              "m43": -0.00007958619971759617,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": 0.060707565397024155,
+              "m12": 0.00069194077514112,
+              "m13": -0.0003935098648071289,
+              "m14": 0,
+              "m21": 0.00011199839354958385,
+              "m22": -0.011577564291656017,
+              "m23": -0.003079727990552783,
+              "m24": 0,
+              "m31": -0.000017601387298782356,
+              "m32": 0.0004920084611512721,
+              "m33": -0.0018502501770853996,
+              "m34": 0,
+              "m41": -0.0005004977574571967,
+              "m42": -0.0012492878595367074,
+              "m43": -0.0037682484835386276,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": -0.060711026191711426,
+              "m12": -0.00010654017387423664,
+              "m13": 0.0004479883937165141,
+              "m14": 0,
+              "m21": 0.00006554769061040133,
+              "m22": -0.010071772150695324,
+              "m23": 0.006487853359431028,
+              "m24": 0,
+              "m31": 0.000010057342478830833,
+              "m32": 0.0010368648217990994,
+              "m33": 0.0016095391474664211,
+              "m34": 0,
+              "m41": 0.0005383844836615026,
+              "m42": -0.0011893502669408917,
+              "m43": 0.004343733657151461,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": -0.00010652844503056258,
+              "m12": 0.060711026191711426,
+              "m13": 0.0004479841736610979,
+              "m14": 0,
+              "m21": -0.010071775875985622,
+              "m22": -0.00006554606079589576,
+              "m23": 0.006487857084721327,
+              "m24": 0,
+              "m31": 0.0010368661023676395,
+              "m32": -0.000010057355211756658,
+              "m33": 0.0016095387982204556,
+              "m34": 0,
+              "m41": 0.00025216391077265143,
+              "m42": -0.0003296227368991822,
+              "m43": 0.004615809302777052,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": 0.06071268767118454,
+              "m12": 0.000009576531738275662,
+              "m13": 0.00011356901813996956,
+              "m14": 0,
+              "m21": -0.00001766509740264155,
+              "m22": -0.006599221378564835,
+              "m23": 0.009999359957873821,
+              "m24": 0,
+              "m31": 0.0000022249155335885007,
+              "m32": -0.0015979966847226024,
+              "m33": -0.0010546131525188684,
+              "m34": 0,
+              "m41": 0.0005287534440867603,
+              "m42": 0.0012781727127730846,
+              "m43": -0.00005392021921579726,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": 0.06071019545197487,
+              "m12": -0.0005516019300557673,
+              "m13": 0.00009848734771367162,
+              "m14": 0,
+              "m21": -0.00007737000851193443,
+              "m22": -0.006747816689312458,
+              "m23": 0.009899405762553215,
+              "m24": 0,
+              "m31": -0.000012623935617739335,
+              "m32": -0.001581973279826343,
+              "m33": -0.0010784290498122573,
+              "m34": 0,
+              "m41": 0.0005130063509568572,
+              "m42": -0.0017090248875319958,
+              "m43": -0.00007958619971759617,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": 0.06070023402571678,
+              "m12": -0.00116992078255862,
+              "m13": -0.0003936825378332287,
+              "m14": 0,
+              "m21": -0.0002430796012049541,
+              "m22": -0.011575554497539997,
+              "m23": -0.003079727990552783,
+              "m24": 0,
+              "m31": -0.0000025112476578215137,
+              "m32": 0.0004923168453387916,
+              "m33": -0.0018502501770853996,
+              "m34": 0,
+              "m41": 0.0005004977574571967,
+              "m42": -0.0012492878595367074,
+              "m43": -0.0037682484835386276,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": -0.060711026191711426,
+              "m12": -0.00010652745550032705,
+              "m13": 0.00044799852184951305,
+              "m14": 0,
+              "m21": 0.00006554889841936529,
+              "m22": -0.010071772150695324,
+              "m23": 0.006487853359431028,
+              "m24": 0,
+              "m31": 0.000010057651707029436,
+              "m32": 0.0010368648217990994,
+              "m33": 0.0016095391474664211,
+              "m34": 0,
+              "m41": -0.0005383844836615026,
+              "m42": -0.0011893502669408917,
+              "m43": 0.004343733657151461,
+              "m44": 0.9999999403953552
+            },
+            {
+              "m11": 0.00010653899516910315,
+              "m12": -0.060711026191711426,
+              "m13": 0.00044800282921642065,
+              "m14": 0,
+              "m21": 0.010071775875985622,
+              "m22": 0.00006555052823387086,
+              "m23": 0.006487857084721327,
+              "m24": 0,
+              "m31": -0.0010368661023676395,
+              "m32": 0.000010057638974103611,
+              "m33": 0.0016095387982204556,
+              "m34": 0,
+              "m41": -0.00025216391077265143,
+              "m42": -0.0003296227368991822,
+              "m43": 0.004615809302777052,
+              "m44": 0.9999999403953552
+            }
+          ],
+          "jointIdentifiers": [
+            "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900185-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900187-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900189-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900193-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900199-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900201-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900203-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+            "joint:2900207-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+          ],
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "skeleton",
+              "name": "skeleton1",
+              "identifier": "skeleton:2900010-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "inverseBindMatrices": [
+                {
+                  "m11": 0.7543320655822754,
+                  "m12": 0,
+                  "m13": 0,
+                  "m14": 0,
+                  "m21": 0,
+                  "m22": -0.18831101059913635,
+                  "m23": -0.7304490804672241,
+                  "m24": 0,
+                  "m31": 0,
+                  "m32": 0.7304490804672241,
+                  "m33": -0.1883111149072647,
+                  "m34": 0,
+                  "m41": 0,
+                  "m42": -0.0008270807447843254,
+                  "m43": 0.00052639190107584,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.7543320655822754,
+                  "m12": 0,
+                  "m13": 0,
+                  "m14": 0,
+                  "m21": 0,
+                  "m22": -0.09274784475564957,
+                  "m23": -0.7486085891723633,
+                  "m24": 0,
+                  "m31": 0,
+                  "m32": 0.7486086487770081,
+                  "m33": -0.09274797886610031,
+                  "m34": 0,
+                  "m41": 0,
+                  "m42": -0.0017172424122691154,
+                  "m43": 0.00030797027284279466,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.7540189623832703,
+                  "m12": -0.021730542182922363,
+                  "m13": -0.0002590215881355107,
+                  "m14": 0,
+                  "m21": 0.0009501245804131031,
+                  "m22": 0.041945476084947586,
+                  "m23": -0.7531643509864807,
+                  "m24": 0,
+                  "m31": 0.021711308509111404,
+                  "m32": 0.7528513073921204,
+                  "m33": 0.041955314576625824,
+                  "m34": 0,
+                  "m41": -0.00007158475636970252,
+                  "m42": -0.002482266863808036,
+                  "m43": -0.00013613220653496683,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.7543321251869202,
+                  "m12": 2.9017961367117096E-9,
+                  "m13": 1.6574512595735058E-10,
+                  "m14": 0,
+                  "m21": 3.0402520778682884E-11,
+                  "m22": 0.02154369093477726,
+                  "m23": -0.7540243864059448,
+                  "m24": 0,
+                  "m31": -1.8351832276053415E-9,
+                  "m32": 0.7540245652198792,
+                  "m33": 0.021543560549616814,
+                  "m34": 0,
+                  "m41": 0.000015653726222808473,
+                  "m42": -0.00302903912961483,
+                  "m43": -0.00005411771417129785,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.7543321251869202,
+                  "m12": 1.9591928079876197E-9,
+                  "m13": 1.801448377136694E-7,
+                  "m14": 0,
+                  "m21": 1.6795094381905074E-7,
+                  "m22": -0.2781852185726166,
+                  "m23": -0.7011631727218628,
+                  "m24": 0,
+                  "m31": 6.435714539065884E-8,
+                  "m32": 0.7011634111404419,
+                  "m33": -0.2781853675842285,
+                  "m34": 0,
+                  "m41": -3.8229586163396334E-10,
+                  "m42": -0.003979433793574572,
+                  "m43": 0.0016462111379951239,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.7543321251869202,
+                  "m12": -2.108703767156328E-10,
+                  "m13": 1.8010976532423228E-7,
+                  "m14": 0,
+                  "m21": 1.7668801888248709E-7,
+                  "m22": -0.14075760543346405,
+                  "m23": -0.7410831451416016,
+                  "m24": 0,
+                  "m31": 3.355926736503534E-8,
+                  "m32": 0.7410832643508911,
+                  "m33": -0.14075778424739838,
+                  "m34": 0,
+                  "m41": -1.9345108848156656E-10,
+                  "m42": -0.004575666505843401,
+                  "m43": 0.000796385167632252,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.17115460336208344,
+                  "m12": 0.732576310634613,
+                  "m13": -0.05526972934603691,
+                  "m14": 0,
+                  "m21": -0.7346137166023254,
+                  "m22": 0.17003373801708221,
+                  "m23": -0.021165380254387856,
+                  "m24": 0,
+                  "m31": -0.008096769452095032,
+                  "m32": 0.058627307415008545,
+                  "m33": 0.7520068287849426,
+                  "m34": 0,
+                  "m41": -0.00034447116195224226,
+                  "m42": -0.00029269480728544295,
+                  "m43": -0.003787796478718519,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.04895777255296707,
+                  "m12": 0.7525110840797424,
+                  "m13": 0.01863563433289528,
+                  "m14": 0,
+                  "m21": 0.08133084326982498,
+                  "m22": 0.013277586549520493,
+                  "m23": -0.7498171925544739,
+                  "m24": 0,
+                  "m31": -0.7483351826667786,
+                  "m32": 0.050674017518758774,
+                  "m33": -0.08027290552854538,
+                  "m34": 0,
+                  "m41": 0.003661563852801919,
+                  "m42": -0.0018399553373456001,
+                  "m43": 0.00033891850034706295,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.17115464806556702,
+                  "m12": -0.7325764894485474,
+                  "m13": 0.055269744247198105,
+                  "m14": 0,
+                  "m21": 0.7346138954162598,
+                  "m22": 0.17003382742404938,
+                  "m23": -0.0211653932929039,
+                  "m24": 0,
+                  "m31": 0.008096776902675629,
+                  "m32": 0.058627355843782425,
+                  "m33": 0.7520069479942322,
+                  "m34": 0,
+                  "m41": 0.00034447122015990317,
+                  "m42": -0.0002926950983237475,
+                  "m43": -0.003787796478718519,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.04895777255296707,
+                  "m12": -0.7525109052658081,
+                  "m13": -0.01863570138812065,
+                  "m14": 0,
+                  "m21": -0.08133085817098618,
+                  "m22": 0.013277674093842506,
+                  "m23": -0.7498171925544739,
+                  "m24": 0,
+                  "m31": 0.7483351230621338,
+                  "m32": 0.05067402496933937,
+                  "m33": -0.08027291297912598,
+                  "m34": 0,
+                  "m41": -0.00366156711243093,
+                  "m42": -0.0018399553373456001,
+                  "m43": 0.00033891864586621523,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": -0.3181562125682831,
+                  "m12": 0.404564768075943,
+                  "m13": -0.5514715909957886,
+                  "m14": 0,
+                  "m21": -0.6512945294380188,
+                  "m22": -0.3649086356163025,
+                  "m23": 0.10804583132266998,
+                  "m24": 0,
+                  "m31": -0.20882752537727356,
+                  "m32": 0.5217142701148987,
+                  "m33": 0.5032119750976562,
+                  "m34": 0,
+                  "m41": 0.0005199274746701121,
+                  "m42": -0.000498103559948504,
+                  "m43": -0.0006653714226558805,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": -0.3181562125682831,
+                  "m12": -0.404564768075943,
+                  "m13": 0.5514715909957886,
+                  "m14": 0,
+                  "m21": 0.6512945294380188,
+                  "m22": -0.3649086356163025,
+                  "m23": 0.10804583132266998,
+                  "m24": 0,
+                  "m31": 0.20882752537727356,
+                  "m32": 0.5217142701148987,
+                  "m33": 0.5032119750976562,
+                  "m34": 0,
+                  "m41": -0.0005199274746701121,
+                  "m42": -0.000498103559948504,
+                  "m43": -0.0006653714226558805,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.754310667514801,
+                  "m12": -0.00569943618029356,
+                  "m13": -0.00014908300363458693,
+                  "m14": 0,
+                  "m21": 0.00008608654025010765,
+                  "m22": -0.008347426541149616,
+                  "m23": 0.7542845010757446,
+                  "m24": 0,
+                  "m31": -0.005700727924704552,
+                  "m32": -0.7542644739151001,
+                  "m33": -0.008346769958734512,
+                  "m34": 0,
+                  "m41": -0.0005287534440867603,
+                  "m42": 0.00127817178145051,
+                  "m43": -0.000053920350183034316,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": 0.754310667514801,
+                  "m12": 0.00569943618029356,
+                  "m13": 0.00014908300363458693,
+                  "m14": 0,
+                  "m21": -0.00008608654025010765,
+                  "m22": -0.008347426541149616,
+                  "m23": 0.7542845010757446,
+                  "m24": 0,
+                  "m31": 0.005700727924704552,
+                  "m32": -0.7542644739151001,
+                  "m33": -0.008346769958734512,
+                  "m34": 0,
+                  "m41": 0.0005287534440867603,
+                  "m42": 0.00127817178145051,
+                  "m43": -0.000053920350183034316,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": -0.019376225769519806,
+                  "m12": 0.7540767788887024,
+                  "m13": -0.0031222226098179817,
+                  "m14": 0,
+                  "m21": -0.06322989612817764,
+                  "m22": -0.004736955743283033,
+                  "m23": -0.7516623735427856,
+                  "m24": 0,
+                  "m31": -0.7514276504516602,
+                  "m32": -0.019045932218432426,
+                  "m33": 0.0633300244808197,
+                  "m34": 0,
+                  "m41": 0.0039574322290718555,
+                  "m42": -0.0029885326512157917,
+                  "m43": -0.00031313192448578775,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": -0.005457540508359671,
+                  "m12": 0.7533567547798157,
+                  "m13": -0.037955574691295624,
+                  "m14": 0,
+                  "m21": -0.02969272807240486,
+                  "m22": -0.038141727447509766,
+                  "m23": -0.7527816891670227,
+                  "m24": 0,
+                  "m31": -0.7537278532981873,
+                  "m32": -0.003952271305024624,
+                  "m33": 0.029930129647254944,
+                  "m34": 0,
+                  "m41": 0.0038762453477829695,
+                  "m42": -0.005036601331084967,
+                  "m43": 0.00009079991286853328,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": -0.019376223906874657,
+                  "m12": -0.7540767192840576,
+                  "m13": 0.0031222193501889706,
+                  "m14": 0,
+                  "m21": 0.06322991847991943,
+                  "m22": -0.0047369045205414295,
+                  "m23": -0.7516624331474304,
+                  "m24": 0,
+                  "m31": 0.7514276504516602,
+                  "m32": -0.01904594711959362,
+                  "m33": 0.0633300170302391,
+                  "m34": 0,
+                  "m41": -0.003957430832087994,
+                  "m42": -0.00298853381536901,
+                  "m43": -0.00031313186627812684,
+                  "m44": 0.9999999403953552
+                },
+                {
+                  "m11": -0.005457538645714521,
+                  "m12": -0.7533565759658813,
+                  "m13": 0.03795558214187622,
+                  "m14": 0,
+                  "m21": 0.02969271130859852,
+                  "m22": -0.038141682744026184,
+                  "m23": -0.7527817487716675,
+                  "m24": 0,
+                  "m31": 0.7537276744842529,
+                  "m32": -0.003952283412218094,
+                  "m33": 0.029930099844932556,
+                  "m34": 0,
+                  "m41": -0.0038762446492910385,
+                  "m42": -0.005036601796746254,
+                  "m43": 0.00009080023301066831,
+                  "m44": 0.9999999403953552
+                }
+              ],
+              "jointIdentifiers": [
+                "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900143-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900145-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900147-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900149-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900151-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900155-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900157-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900165-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900167-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900159-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900161-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900169-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900171-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "skeleton",
+                  "name": "skeleton2",
+                  "identifier": "skeleton:2900012-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "inverseBindMatrices": [
+                    {
+                      "m11": 0.053337085992097855,
+                      "m12": -0.0004030054551549256,
+                      "m13": -0.000010541615665715653,
+                      "m14": 0,
+                      "m21": 0.0000073255969255114906,
+                      "m22": -0.0007103303796611726,
+                      "m23": 0.06418638676404953,
+                      "m24": 0,
+                      "m31": -0.002842802321538329,
+                      "m32": -0.3761317729949951,
+                      "m33": -0.004162313882261515,
+                      "m34": 0,
+                      "m41": -0.0005287535022944212,
+                      "m42": 0.00127817178145051,
+                      "m43": -0.000053920350183034316,
+                      "m44": 0.9999999403953552
+                    },
+                    {
+                      "m11": 0.05333852395415306,
+                      "m12": 0.00008872340549714863,
+                      "m13": -0.0000032120201467478182,
+                      "m14": 0,
+                      "m21": 0.000006651561307080556,
+                      "m22": -0.0016715924721211195,
+                      "m23": 0.0641685500741005,
+                      "m24": 0,
+                      "m31": 0.0006249157013371587,
+                      "m32": -0.37603744864463806,
+                      "m33": -0.009795954450964928,
+                      "m34": 0,
+                      "m41": -0.0005130064091645181,
+                      "m42": -0.0017090259352698922,
+                      "m43": -0.00007958635251270607,
+                      "m44": 0.9999999403953552
+                    },
+                    {
+                      "m11": 0.053337085992097855,
+                      "m12": 0.0004030054551549256,
+                      "m13": 0.000010541615665715653,
+                      "m14": 0,
+                      "m21": -0.0000073255969255114906,
+                      "m22": -0.0007103303796611726,
+                      "m23": 0.06418638676404953,
+                      "m24": 0,
+                      "m31": 0.002842802321538329,
+                      "m32": -0.3761317729949951,
+                      "m33": -0.004162313882261515,
+                      "m34": 0,
+                      "m41": 0.0005287534440867603,
+                      "m42": 0.00127817178145051,
+                      "m43": -0.00005392035382101312,
+                      "m44": 0.9999999403953552
+                    },
+                    {
+                      "m11": 0.05333852395415306,
+                      "m12": -0.00008872340549714863,
+                      "m13": 0.0000032120201467478182,
+                      "m14": 0,
+                      "m21": -0.000006651561307080556,
+                      "m22": -0.0016715924721211195,
+                      "m23": 0.0641685500741005,
+                      "m24": 0,
+                      "m31": -0.0006249157013371587,
+                      "m32": -0.37603744864463806,
+                      "m33": -0.009795954450964928,
+                      "m34": 0,
+                      "m41": 0.0005130062927491963,
+                      "m42": -0.0017090259352698922,
+                      "m43": -0.00007958635251270607,
+                      "m44": 0.9999999403953552
+                    }
+                  ],
+                  "jointIdentifiers": [
+                    "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                    "joint:2900185-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                    "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                    "joint:2900199-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+                  ],
+                  "layerIdentifier": "UI",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "children": [
+                    {
+                      "modelName": "joint",
+                      "name": "spine",
+                      "identifier": "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                      "animationMask": {
+                        "position": true,
+                        "rotation": true,
+                        "scale": true
+                      },
+                      "cameraVisibility": "back|front",
+                      "hidden": false,
+                      "layerIdentifier": "UI",
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "tags": [],
+                      "transform": {
+                        "rx": 1.8231041431427002,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0.000303253618767485,
+                        "z": 0.005548113025724888
+                      },
+                      "children": [
+                        {
+                          "modelName": "joint",
+                          "name": "spine.001",
+                          "identifier": "joint:2900143-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "layerIdentifier": "UI",
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": -0.12904229760169983,
+                            "ry": 0,
+                            "rz": 0,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 0.9999999403953552,
+                            "x": 0,
+                            "y": 0.0008362522930838168,
+                            "z": -8.186288452671775E-11
+                          },
+                          "children": [
+                            {
+                              "modelName": "joint",
+                              "name": "spine.002",
+                              "identifier": "joint:2900145-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                              "animationMask": {
+                                "position": true,
+                                "rotation": true,
+                                "scale": true
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "layerIdentifier": "UI",
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "tags": [],
+                              "transform": {
+                                "rx": -0.17885053157806396,
+                                "ry": 0.004788890480995178,
+                                "rz": 0.028413059189915657,
+                                "sx": 1,
+                                "sy": 0.9999999403953552,
+                                "sz": 1,
+                                "x": 0,
+                                "y": 0.0007506442489102483,
+                                "z": 1.4389960577287919E-11
+                              },
+                              "children": [
+                                {
+                                  "modelName": "joint",
+                                  "name": "spine.003",
+                                  "identifier": "joint:2900147-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                  "animationMask": {
+                                    "position": true,
+                                    "rotation": true,
+                                    "scale": true
+                                  },
+                                  "cameraVisibility": "back|front",
+                                  "hidden": false,
+                                  "layerIdentifier": "UI",
+                                  "outputVisibility": "preview|capture",
+                                  "physicsEnabled": false,
+                                  "tags": [],
+                                  "transform": {
+                                    "rx": 0.027084212750196457,
+                                    "ry": 0.0003433794481679797,
+                                    "rz": -0.028811659663915634,
+                                    "sx": 1,
+                                    "sy": 1,
+                                    "sz": 1,
+                                    "x": 2.0710551329461424E-12,
+                                    "y": 0.0005433873157016933,
+                                    "z": 2.0806733072586958E-11
+                                  },
+                                  "children": [
+                                    {
+                                      "modelName": "joint",
+                                      "name": "spine.004",
+                                      "identifier": "joint:2900149-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": 0.4062637686729431,
+                                        "ry": 2.200629012349964E-7,
+                                        "rz": 9.467023431852795E-8,
+                                        "sx": 1,
+                                        "sy": 0.9999999403953552,
+                                        "sz": 1,
+                                        "x": 0.000015653702575946227,
+                                        "y": 0.001277035684324801,
+                                        "z": 0.000006258955181692727
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "joint",
+                                          "name": "spine.005",
+                                          "identifier": "joint:2900151-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": true,
+                                            "rotation": true,
+                                            "scale": true
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": -0.19000066816806793,
+                                            "ry": -4.290543476059838E-9,
+                                            "rz": -4.2221685703225376E-8,
+                                            "sx": 1,
+                                            "sy": 1,
+                                            "sz": 1,
+                                            "x": 4.2694824746528567E-17,
+                                            "y": 0.0003634840250015259,
+                                            "z": -3.7861586088538957E-10
+                                          },
+                                          "children": [
+                                            {
+                                              "modelName": "sceneObject",
+                                              "name": "spine.005_end",
+                                              "identifier": "sceneObject:2900153-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                              "animationMask": {
+                                                "position": false,
+                                                "rotation": false,
+                                                "scale": false
+                                              },
+                                              "cameraVisibility": "back|front",
+                                              "hidden": false,
+                                              "layerIdentifier": "UI",
+                                              "outputVisibility": "preview|capture",
+                                              "physicsEnabled": false,
+                                              "shapeColor": "0xff808080",
+                                              "shapeType": 0,
+                                              "tags": [],
+                                              "transform": {
+                                                "rx": 0,
+                                                "ry": 0,
+                                                "rz": 0,
+                                                "sx": 1,
+                                                "sy": 1,
+                                                "sz": 1,
+                                                "x": 0,
+                                                "y": 0.0003444634494371712,
+                                                "z": 0
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "modelName": "joint",
+                                      "name": "shoulder.L",
+                                      "identifier": "joint:2900155-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": -1.3226802349090576,
+                                        "ry": -1.3385688066482544,
+                                        "rz": -0.16826261579990387,
+                                        "sx": 1,
+                                        "sy": 1,
+                                        "sz": 1,
+                                        "x": 0.00010053518781205639,
+                                        "y": 0.0007538549252785742,
+                                        "z": 0.00042988915811292827
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "joint",
+                                          "name": "upper_arm.L",
+                                          "identifier": "joint:2900157-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": true,
+                                            "rotation": true,
+                                            "scale": true
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": -1.4568901062011719,
+                                            "ry": 0.5909276008605957,
+                                            "rz": -1.6174991130828857,
+                                            "sx": 0.819989800453186,
+                                            "sy": 0.8199899792671204,
+                                            "sz": 0.8199899196624756,
+                                            "x": 3.166738054005691E-7,
+                                            "y": 0.0015399374533444643,
+                                            "z": -0.00012311013415455818
+                                          },
+                                          "children": [
+                                            {
+                                              "modelName": "joint",
+                                              "name": "forearm.L",
+                                              "identifier": "joint:2900159-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                              "animationMask": {
+                                                "position": true,
+                                                "rotation": true,
+                                                "scale": true
+                                              },
+                                              "cameraVisibility": "back|front",
+                                              "hidden": false,
+                                              "layerIdentifier": "UI",
+                                              "outputVisibility": "preview|capture",
+                                              "physicsEnabled": false,
+                                              "tags": [],
+                                              "transform": {
+                                                "rx": -0.154687762260437,
+                                                "ry": -0.29976949095726013,
+                                                "rz": -1.4210233688354492,
+                                                "sx": 0.9122657179832458,
+                                                "sy": 0.9122657775878906,
+                                                "sz": 0.9122657775878906,
+                                                "x": 4.3249825942837106E-10,
+                                                "y": 0.0015020088758319616,
+                                                "z": 1.4070184253811568E-11
+                                              },
+                                              "children": [
+                                                {
+                                                  "modelName": "joint",
+                                                  "name": "hand.L",
+                                                  "identifier": "joint:2900161-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                                  "animationMask": {
+                                                    "position": true,
+                                                    "rotation": true,
+                                                    "scale": true
+                                                  },
+                                                  "cameraVisibility": "back|front",
+                                                  "hidden": false,
+                                                  "layerIdentifier": "UI",
+                                                  "outputVisibility": "preview|capture",
+                                                  "physicsEnabled": false,
+                                                  "tags": [],
+                                                  "transform": {
+                                                    "rx": 0.2907300591468811,
+                                                    "ry": 0.5986768007278442,
+                                                    "rz": 0.6130726337432861,
+                                                    "sx": 0.7929872870445251,
+                                                    "sy": 0.7929874062538147,
+                                                    "sz": 0.7929871082305908,
+                                                    "x": 2.967529555419901E-10,
+                                                    "y": 0.001975493971258402,
+                                                    "z": 2.468677762212934E-10
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "modelName": "sceneObject",
+                                                      "name": "hand.L_end",
+                                                      "identifier": "sceneObject:2900163-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                                      "animationMask": {
+                                                        "position": false,
+                                                        "rotation": false,
+                                                        "scale": false
+                                                      },
+                                                      "cameraVisibility": "back|front",
+                                                      "hidden": false,
+                                                      "layerIdentifier": "UI",
+                                                      "outputVisibility": "preview|capture",
+                                                      "physicsEnabled": false,
+                                                      "shapeColor": "0xff808080",
+                                                      "shapeType": 0,
+                                                      "tags": [],
+                                                      "transform": {
+                                                        "rx": 0,
+                                                        "ry": 0,
+                                                        "rz": 0,
+                                                        "sx": 1,
+                                                        "sy": 1,
+                                                        "sz": 1,
+                                                        "x": 0,
+                                                        "y": 0.0021075382828712463,
+                                                        "z": 0
+                                                      }
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "modelName": "joint",
+                                      "name": "shoulder.R",
+                                      "identifier": "joint:2900165-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": -1.3226796388626099,
+                                        "ry": 1.3385688066482544,
+                                        "rz": 0.168263241648674,
+                                        "sx": 1,
+                                        "sy": 0.9999998807907104,
+                                        "sz": 0.9999999403953552,
+                                        "x": -0.00006922778266016394,
+                                        "y": 0.0007538549252785742,
+                                        "z": 0.00042988915811292827
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "joint",
+                                          "name": "upper_arm.R",
+                                          "identifier": "joint:2900167-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": true,
+                                            "rotation": true,
+                                            "scale": true
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": -1.3950116634368896,
+                                            "ry": -0.48241081833839417,
+                                            "rz": 1.1754273176193237,
+                                            "sx": 0.8199902772903442,
+                                            "sy": 0.8199903964996338,
+                                            "sz": 0.8199899196624756,
+                                            "x": -3.1676844969297235E-7,
+                                            "y": 0.0015399375697597861,
+                                            "z": -0.0001231081987498328
+                                          },
+                                          "children": [
+                                            {
+                                              "modelName": "joint",
+                                              "name": "forearm.R",
+                                              "identifier": "joint:2900169-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                              "animationMask": {
+                                                "position": true,
+                                                "rotation": true,
+                                                "scale": true
+                                              },
+                                              "cameraVisibility": "back|front",
+                                              "hidden": false,
+                                              "layerIdentifier": "UI",
+                                              "outputVisibility": "preview|capture",
+                                              "physicsEnabled": false,
+                                              "tags": [],
+                                              "transform": {
+                                                "rx": 0.46828746795654297,
+                                                "ry": 0.6901681423187256,
+                                                "rz": -1.930548071861267,
+                                                "sx": 1,
+                                                "sy": 1,
+                                                "sz": 1,
+                                                "x": -4.502458961219702E-10,
+                                                "y": 0.0015020092250779271,
+                                                "z": -1.330271864885546E-10
+                                              },
+                                              "children": [
+                                                {
+                                                  "modelName": "joint",
+                                                  "name": "hand.R",
+                                                  "identifier": "joint:2900171-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                                  "animationMask": {
+                                                    "position": true,
+                                                    "rotation": true,
+                                                    "scale": true
+                                                  },
+                                                  "cameraVisibility": "back|front",
+                                                  "hidden": false,
+                                                  "layerIdentifier": "UI",
+                                                  "outputVisibility": "preview|capture",
+                                                  "physicsEnabled": false,
+                                                  "tags": [],
+                                                  "transform": {
+                                                    "rx": 0.3582981824874878,
+                                                    "ry": 1.2472444772720337,
+                                                    "rz": 0.22757574915885925,
+                                                    "sx": 1.0161241292953491,
+                                                    "sy": 1.0161240100860596,
+                                                    "sz": 1.0161240100860596,
+                                                    "x": -7.674645641220224E-11,
+                                                    "y": 0.0019754928071051836,
+                                                    "z": -3.0698582564880894E-11
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "modelName": "sceneObject",
+                                                      "name": "hand.R_end",
+                                                      "identifier": "sceneObject:2900173-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                                      "animationMask": {
+                                                        "position": false,
+                                                        "rotation": false,
+                                                        "scale": false
+                                                      },
+                                                      "cameraVisibility": "back|front",
+                                                      "hidden": false,
+                                                      "layerIdentifier": "UI",
+                                                      "outputVisibility": "preview|capture",
+                                                      "physicsEnabled": false,
+                                                      "shapeColor": "0xff808080",
+                                                      "shapeType": 0,
+                                                      "tags": [],
+                                                      "transform": {
+                                                        "rx": 0,
+                                                        "ry": 0,
+                                                        "rz": 0,
+                                                        "sx": 1,
+                                                        "sy": 1,
+                                                        "sz": 1,
+                                                        "x": 0,
+                                                        "y": 0.0021075382828712463,
+                                                        "z": 0
+                                                      }
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "joint",
+                          "name": "pelvis.L",
+                          "identifier": "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "layerIdentifier": "UI",
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 2.3719239234924316,
+                            "ry": -1.1318002939224243,
+                            "rz": -3.01767897605896,
+                            "sx": 0.9999999403953552,
+                            "sy": 1,
+                            "sz": 0.9999999403953552,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "children": [
+                            {
+                              "modelName": "sceneObject",
+                              "name": "pelvis.L_end",
+                              "identifier": "sceneObject:2900177-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                              "animationMask": {
+                                "position": false,
+                                "rotation": false,
+                                "scale": false
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "layerIdentifier": "UI",
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "shapeColor": "0xff808080",
+                              "shapeType": 0,
+                              "tags": [],
+                              "transform": {
+                                "rx": 0,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 1,
+                                "sy": 1,
+                                "sz": 1,
+                                "x": 0,
+                                "y": 0.0011390589643269777,
+                                "z": 0
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "joint",
+                          "name": "pelvis.R",
+                          "identifier": "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "layerIdentifier": "UI",
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 2.3719239234924316,
+                            "ry": 1.1318002939224243,
+                            "rz": 3.01767897605896,
+                            "sx": 0.9999999403953552,
+                            "sy": 1,
+                            "sz": 0.9999999403953552,
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                          },
+                          "children": [
+                            {
+                              "modelName": "sceneObject",
+                              "name": "pelvis.R_end",
+                              "identifier": "sceneObject:2900181-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                              "animationMask": {
+                                "position": false,
+                                "rotation": false,
+                                "scale": false
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "layerIdentifier": "UI",
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "shapeColor": "0xff808080",
+                              "shapeType": 0,
+                              "tags": [],
+                              "transform": {
+                                "rx": 0,
+                                "ry": 0,
+                                "rz": 0,
+                                "sx": 1,
+                                "sy": 1,
+                                "sz": 1,
+                                "x": 0,
+                                "y": 0.0011390589643269777,
+                                "z": 0
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "joint",
+                          "name": "thigh.L",
+                          "identifier": "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "layerIdentifier": "UI",
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 2.878225088119507,
+                            "ry": -0.00177615019492805,
+                            "rz": -0.007346597034484148,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": 0.0005383850657381117,
+                            "y": 0.00038905750261619687,
+                            "z": 0.00014251975517254323
+                          },
+                          "children": [
+                            {
+                              "modelName": "joint",
+                              "name": "shin.L",
+                              "identifier": "joint:2900185-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                              "animationMask": {
+                                "position": true,
+                                "rotation": true,
+                                "scale": true
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "layerIdentifier": "UI",
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "tags": [],
+                              "transform": {
+                                "rx": -0.014979411847889423,
+                                "ry": 0.00011250747775193304,
+                                "rz": -0.009217988699674606,
+                                "sx": 1,
+                                "sy": 0.9999999403953552,
+                                "sz": 1,
+                                "x": -9.89153724206826E-12,
+                                "y": 0.0029833964072167873,
+                                "z": 1.7387869572990655E-12
+                              },
+                              "children": [
+                                {
+                                  "modelName": "joint",
+                                  "name": "foot.L",
+                                  "identifier": "joint:2900187-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                  "animationMask": {
+                                    "position": true,
+                                    "rotation": true,
+                                    "scale": true
+                                  },
+                                  "cameraVisibility": "back|front",
+                                  "hidden": false,
+                                  "layerIdentifier": "UI",
+                                  "outputVisibility": "preview|capture",
+                                  "physicsEnabled": false,
+                                  "tags": [],
+                                  "transform": {
+                                    "rx": -1.2324355840682983,
+                                    "ry": -0.014404368586838245,
+                                    "rz": -0.003427885239943862,
+                                    "sx": 1,
+                                    "sy": 1,
+                                    "sz": 1,
+                                    "x": 1.348949511120745E-11,
+                                    "y": 0.002258519409224391,
+                                    "z": 5.86091114876397E-12
+                                  },
+                                  "children": [
+                                    {
+                                      "modelName": "joint",
+                                      "name": "toe.L",
+                                      "identifier": "joint:2900189-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": -2.829312562942505,
+                                        "ry": 0.0000013430887975118821,
+                                        "rz": -3.126258134841919,
+                                        "sx": 0.9999999403953552,
+                                        "sy": 0.9999999403953552,
+                                        "sz": 1,
+                                        "x": 2.054566586306983E-11,
+                                        "y": 0.001225028419867158,
+                                        "z": -3.2510910630279E-11
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "sceneObject",
+                                          "name": "toe.L_end",
+                                          "identifier": "sceneObject:2900191-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": false,
+                                            "rotation": false,
+                                            "scale": false
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "shapeColor": "0xff808080",
+                                          "shapeType": 0,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": 0,
+                                            "ry": 0,
+                                            "rz": 0,
+                                            "sx": 1,
+                                            "sy": 1,
+                                            "sz": 1,
+                                            "x": 0,
+                                            "y": 0.000369178393157199,
+                                            "z": 0
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "modelName": "joint",
+                                      "name": "heel.02.L",
+                                      "identifier": "joint:2900193-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": 3.1415913105010986,
+                                        "ry": 0.3122803568840027,
+                                        "rz": 1.586130142211914,
+                                        "sx": 1,
+                                        "sy": 1,
+                                        "sz": 1,
+                                        "x": -0.00018898477719631046,
+                                        "y": -0.00006622685032198206,
+                                        "z": 0.000701791956089437
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "sceneObject",
+                                          "name": "heel.02.L_end",
+                                          "identifier": "sceneObject:2900195-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": false,
+                                            "rotation": false,
+                                            "scale": false
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "shapeColor": "0xff808080",
+                                          "shapeType": 0,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": 0,
+                                            "ry": 0,
+                                            "rz": 0,
+                                            "sx": 1,
+                                            "sy": 1,
+                                            "sz": 1,
+                                            "x": 0,
+                                            "y": 0.00043949802056886256,
+                                            "z": 0
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "joint",
+                          "name": "thigh.R",
+                          "identifier": "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                          "animationMask": {
+                            "position": true,
+                            "rotation": true,
+                            "scale": true
+                          },
+                          "cameraVisibility": "back|front",
+                          "hidden": false,
+                          "layerIdentifier": "UI",
+                          "outputVisibility": "preview|capture",
+                          "physicsEnabled": false,
+                          "tags": [],
+                          "transform": {
+                            "rx": 2.878225088119507,
+                            "ry": 0.00177615019492805,
+                            "rz": 0.007346597034484148,
+                            "sx": 1,
+                            "sy": 1,
+                            "sz": 1,
+                            "x": -0.0005383850657381117,
+                            "y": 0.00038905750261619687,
+                            "z": 0.00014251975517254323
+                          },
+                          "children": [
+                            {
+                              "modelName": "joint",
+                              "name": "shin.R",
+                              "identifier": "joint:2900199-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                              "animationMask": {
+                                "position": true,
+                                "rotation": true,
+                                "scale": true
+                              },
+                              "cameraVisibility": "back|front",
+                              "hidden": false,
+                              "layerIdentifier": "UI",
+                              "outputVisibility": "preview|capture",
+                              "physicsEnabled": false,
+                              "tags": [],
+                              "transform": {
+                                "rx": -0.014979411847889423,
+                                "ry": -0.00011250747775193304,
+                                "rz": 0.009217988699674606,
+                                "sx": 1,
+                                "sy": 0.9999999403953552,
+                                "sz": 1,
+                                "x": 9.89153724206826E-12,
+                                "y": 0.0029833964072167873,
+                                "z": 1.7387869572990655E-12
+                              },
+                              "children": [
+                                {
+                                  "modelName": "joint",
+                                  "name": "foot.R",
+                                  "identifier": "joint:2900201-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                  "animationMask": {
+                                    "position": true,
+                                    "rotation": true,
+                                    "scale": true
+                                  },
+                                  "cameraVisibility": "back|front",
+                                  "hidden": false,
+                                  "layerIdentifier": "UI",
+                                  "outputVisibility": "preview|capture",
+                                  "physicsEnabled": false,
+                                  "tags": [],
+                                  "transform": {
+                                    "rx": -1.2324355840682983,
+                                    "ry": 0.014404368586838245,
+                                    "rz": 0.003427885239943862,
+                                    "sx": 1,
+                                    "sy": 1,
+                                    "sz": 1,
+                                    "x": -1.348949511120745E-11,
+                                    "y": 0.002258519409224391,
+                                    "z": 5.86091114876397E-12
+                                  },
+                                  "children": [
+                                    {
+                                      "modelName": "joint",
+                                      "name": "toe.R",
+                                      "identifier": "joint:2900203-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": -2.829312562942505,
+                                        "ry": -0.0000013430887975118821,
+                                        "rz": 3.126258134841919,
+                                        "sx": 0.9999999403953552,
+                                        "sy": 0.9999999403953552,
+                                        "sz": 1,
+                                        "x": -2.054566586306983E-11,
+                                        "y": 0.001225028419867158,
+                                        "z": -3.2510910630279E-11
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "sceneObject",
+                                          "name": "toe.R_end",
+                                          "identifier": "sceneObject:2900205-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": false,
+                                            "rotation": false,
+                                            "scale": false
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "shapeColor": "0xff808080",
+                                          "shapeType": 0,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": 0,
+                                            "ry": 0,
+                                            "rz": 0,
+                                            "sx": 1,
+                                            "sy": 1,
+                                            "sz": 1,
+                                            "x": 0,
+                                            "y": 0.000369178393157199,
+                                            "z": 0
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "modelName": "joint",
+                                      "name": "heel.02.R",
+                                      "identifier": "joint:2900207-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                      "animationMask": {
+                                        "position": true,
+                                        "rotation": true,
+                                        "scale": true
+                                      },
+                                      "cameraVisibility": "back|front",
+                                      "hidden": false,
+                                      "layerIdentifier": "UI",
+                                      "outputVisibility": "preview|capture",
+                                      "physicsEnabled": false,
+                                      "tags": [],
+                                      "transform": {
+                                        "rx": 3.1415913105010986,
+                                        "ry": -0.3122803568840027,
+                                        "rz": -1.586130142211914,
+                                        "sx": 1,
+                                        "sy": 1,
+                                        "sz": 1,
+                                        "x": 0.00018898477719631046,
+                                        "y": -0.00006622685032198206,
+                                        "z": 0.000701791956089437
+                                      },
+                                      "children": [
+                                        {
+                                          "modelName": "sceneObject",
+                                          "name": "heel.02.R_end",
+                                          "identifier": "sceneObject:2900209-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                                          "animationMask": {
+                                            "position": false,
+                                            "rotation": false,
+                                            "scale": false
+                                          },
+                                          "cameraVisibility": "back|front",
+                                          "hidden": false,
+                                          "layerIdentifier": "UI",
+                                          "outputVisibility": "preview|capture",
+                                          "physicsEnabled": false,
+                                          "shapeColor": "0xff808080",
+                                          "shapeType": 0,
+                                          "tags": [],
+                                          "transform": {
+                                            "rx": 0,
+                                            "ry": 0,
+                                            "rz": 0,
+                                            "sx": 1,
+                                            "sy": 1,
+                                            "sz": 1,
+                                            "x": 0,
+                                            "y": 0.00043949802056886256,
+                                            "z": 0
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "одежда",
+      "identifier": "mesh:2900211-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "одежда",
+      "numberOfFaces": 14336,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900215-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "skeletonIdentifier": "skeleton:2900010-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0.611906886100769,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900213-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900218-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "joints": [
+                "joint:2900141-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900143-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900145-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900147-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900149-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900155-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900157-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900159-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900161-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900165-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900167-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900169-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900171-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900175-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900179-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900183-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+                "joint:2900197-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+              ],
+              "materialIdentifier": "dependent_material_model:2900036-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900219-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "Plano",
+      "identifier": "mesh:2900221-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "Plano",
+      "numberOfFaces": 6,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900225-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -0.2157980054616928,
+        "ry": -0.008469287306070328,
+        "rz": 0.000911414623260498,
+        "sx": 6.466559886932373,
+        "sy": 7.414576053619385,
+        "sz": 54.32864761352539,
+        "x": -0.07470183074474335,
+        "y": 1.1037578582763672,
+        "z": 0.1009269505739212
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900223-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900228-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900038-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900229-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "Plano.001",
+      "identifier": "mesh:2900231-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "nodeName": "Plano.001",
+      "numberOfFaces": 6,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:2900235-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -0.2157980054616928,
+        "ry": -0.008469287306070328,
+        "rz": 0.000911414623260498,
+        "sx": 6.466559886932373,
+        "sy": 7.414576053619385,
+        "sz": 54.32864761352539,
+        "x": 0.09685304015874863,
+        "y": 1.1037578582763672,
+        "z": 0.1009269505739212
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:2900233-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:2900238-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:2900042-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+              "surfaceGroupIdentifier": "2900239-b474a6a2-a95e-4d2e-8c49-a64f0472c136"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

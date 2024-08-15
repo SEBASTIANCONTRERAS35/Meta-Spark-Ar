@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "MayoClinic",
+  "identifier": "texture:1145184-92679b34-ac5a-41c7-935a-3009119e2672",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d8ef73a66192f19e182085420baf2d1f",
+  "assetLocator": "textures/MayoClinic.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 943,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d8ef73a66192f19e182085420baf2d1f",
+      "colorCount": 2694,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.3619136222351127,
+      "pixelsHigh": 1024,
+      "pixelsWide": 943
+    }
+  ]
+}

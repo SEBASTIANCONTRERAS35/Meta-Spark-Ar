@@ -1,0 +1,37 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "Kirby_Body_Color",
+  "identifier": "dependent_texture_model:823314-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "sourceIdentifier": "asset_collection_model:823359-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "b07b9a28439fc32054ba86271c132b65.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "originalFileHash": "b07b9a28439fc32054ba86271c132b65",
+  "originalFileReference": "file_reference_model:823361-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 256,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "b07b9a28439fc32054ba86271c132b65",
+      "colorCount": 35,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.7173581079463702,
+      "pixelsHigh": 256,
+      "pixelsWide": 256
+    }
+  ]
+}

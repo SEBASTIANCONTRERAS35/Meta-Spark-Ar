@@ -1,0 +1,1223 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Asteroids Pack (metallic version)",
+  "identifier": "master3_d_object_model:1029794-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+  "sourceIdentifier": "asset_collection_model:1029798-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 48.14287567138672,
+  "globalScaleFactor": 0.05831653668147397,
+  "height": 9.089011192321777,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 34.295589447021484,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "96c641c5173f4e829e26a7cae9eec31e.fbx",
+      "identifier": "sceneObject:1029650-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": -0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:1029652-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_1",
+              "identifier": "sceneObject:1029654-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0.7619967460632324,
+                "y": -0.00010808771912707016,
+                "z": 0.7942600250244141
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_4",
+                  "identifier": "sceneObject:1029656-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.7619967460632324,
+                    "y": 0.7942600250244141,
+                    "z": 0.00010808771912707016
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_1_Material #3_0",
+                      "identifier": "mesh:1029658-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_1_Material #3_0",
+                      "numberOfFaces": 3394,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029662-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029660-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029665-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029666-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160052-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_10",
+              "identifier": "sceneObject:1029668-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.014199141412973404,
+                "y": -0.0018261839868500829,
+                "z": -1.6672346591949463
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_7",
+                  "identifier": "sceneObject:1029670-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.014199141412973404,
+                    "y": -1.6672346591949463,
+                    "z": 0.0018261839868500829
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_10_Material #3_0",
+                      "identifier": "mesh:1029672-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_10_Material #3_0",
+                      "numberOfFaces": 1472,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029676-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029674-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029679-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029680-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160054-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_9",
+              "identifier": "sceneObject:1029682-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.8091402649879456,
+                "y": -0.0007142075919546187,
+                "z": -0.8434110879898071
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_10",
+                  "identifier": "sceneObject:1029684-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.8091402649879456,
+                    "y": -0.8434110879898071,
+                    "z": 0.0007142075919546187
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_9_Material #3_0",
+                      "identifier": "mesh:1029686-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_9_Material #3_0",
+                      "numberOfFaces": 2510,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029690-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029688-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029693-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029694-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160056-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_8",
+              "identifier": "sceneObject:1029696-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.0471331961452961,
+                "y": 0.0007490225834771991,
+                "z": -0.8418932557106018
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_13",
+                  "identifier": "sceneObject:1029698-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.0471331961452961,
+                    "y": -0.8418932557106018,
+                    "z": -0.0007490225834771991
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_8_Material #3_0",
+                      "identifier": "mesh:1029700-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_8_Material #3_0",
+                      "numberOfFaces": 2806,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029704-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029702-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029707-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029708-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160058-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_7",
+              "identifier": "sceneObject:1029710-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0.7247220873832703,
+                "y": -0.00022075671586208045,
+                "z": -0.8420698642730713
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_16",
+                  "identifier": "sceneObject:1029712-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.7247220873832703,
+                    "y": -0.8420698642730713,
+                    "z": 0.00022075671586208045
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_7_Material #3_0",
+                      "identifier": "mesh:1029714-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_7_Material #3_0",
+                      "numberOfFaces": 2798,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029718-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029716-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029721-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029722-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160060-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_6",
+              "identifier": "sceneObject:1029724-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.7771880030632019,
+                "y": -0.003169032046571374,
+                "z": 0.007773104589432478
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_19",
+                  "identifier": "sceneObject:1029726-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.7771880030632019,
+                    "y": 0.007773104589432478,
+                    "z": 0.003169032046571374
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_6_Material #3_0",
+                      "identifier": "mesh:1029728-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_6_Material #3_0",
+                      "numberOfFaces": 2066,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029732-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029730-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029735-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029736-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160062-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_5",
+              "identifier": "sceneObject:1029738-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.017060112208127975,
+                "y": -0.001446218928322196,
+                "z": 0.00841828715056181
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_22",
+                  "identifier": "sceneObject:1029740-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.017060112208127975,
+                    "y": 0.00841828715056181,
+                    "z": 0.001446218928322196
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_5_Material #3_0",
+                      "identifier": "mesh:1029742-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_5_Material #3_0",
+                      "numberOfFaces": 1726,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029746-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029744-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029749-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029750-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160064-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_4",
+              "identifier": "sceneObject:1029752-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0.75491863489151,
+                "y": 0.00043806532630696893,
+                "z": 0.006025674752891064
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_25",
+                  "identifier": "sceneObject:1029754-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": -0.75491863489151,
+                    "y": 0.006025674752891064,
+                    "z": -0.00043806532630696893
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_4_Material #3_0",
+                      "identifier": "mesh:1029756-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_4_Material #3_0",
+                      "numberOfFaces": 2824,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029760-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029758-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029763-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029764-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160066-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_3",
+              "identifier": "sceneObject:1029766-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.7700174450874329,
+                "y": 0.0015355366049334407,
+                "z": 0.7941038608551025
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_28",
+                  "identifier": "sceneObject:1029768-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.7700174450874329,
+                    "y": 0.7941038608551025,
+                    "z": -0.0015355366049334407
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_3_Material #3_0",
+                      "identifier": "mesh:1029770-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_3_Material #3_0",
+                      "numberOfFaces": 1984,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029774-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029772-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029777-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029778-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160068-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "modelName": "sceneObject",
+              "name": "Asteroid_no_2",
+              "identifier": "sceneObject:1029780-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": -0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -0.007477483246475458,
+                "y": 0.00020728399977087975,
+                "z": 0.796404242515564
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "Object_31",
+                  "identifier": "sceneObject:1029782-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.007477483246475458,
+                    "y": 0.796404242515564,
+                    "z": -0.00020728399977087975
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "Asteroid_no_2_Material #3_0",
+                      "identifier": "mesh:1029784-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "nodeName": "Asteroid_no_2_Material #3_0",
+                      "numberOfFaces": 1496,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1029788-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1029786-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1029791-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1029638-442d50db-150a-4fe3-b0fd-f0e069c429b7",
+                              "surfaceGroupIdentifier": "1029792-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                            }
+                          ]
+                        },
+                        {
+                          "modelName": "blend_shapes_model",
+                          "identifier": "blend_shapes_model:1160070-442d50db-150a-4fe3-b0fd-f0e069c429b7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

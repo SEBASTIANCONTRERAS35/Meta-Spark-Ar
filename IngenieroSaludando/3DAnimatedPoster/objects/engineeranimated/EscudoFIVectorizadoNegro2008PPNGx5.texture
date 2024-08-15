@@ -1,0 +1,43 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "EscudoFIVectorizadoNegro2008PPNGx5",
+  "identifier": "dependent_texture_model:2900040-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+  "sourceIdentifier": "asset_collection_model:2900303-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "103aff5740edfb319a5f1bda40a6209e.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {
+    "textures": [
+      {
+        "type": 1
+      }
+    ]
+  },
+  "isExternalAsset": false,
+  "originalFileHash": "13d93255c562a835dde1a7b803a509da",
+  "originalFileReference": "file_reference_model:2900307-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 731,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "103aff5740edfb319a5f1bda40a6209e",
+      "colorCount": 3396,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.7532932325421515,
+      "pixelsHigh": 1024,
+      "pixelsWide": 731
+    }
+  ]
+}

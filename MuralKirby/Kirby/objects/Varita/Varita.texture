@@ -1,0 +1,43 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "Varita",
+  "identifier": "dependent_texture_model:823505-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "sourceIdentifier": "asset_collection_model:823530-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "596ad2f66f92e6193afb81421792af79.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {
+    "textures": [
+      {
+        "type": 1
+      }
+    ]
+  },
+  "isExternalAsset": false,
+  "originalFileHash": "f055a48440bdad34e45d7bba1506f3a9",
+  "originalFileReference": "file_reference_model:823532-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "596ad2f66f92e6193afb81421792af79",
+      "colorCount": 40,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.757123113835057,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}

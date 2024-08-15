@@ -1,0 +1,221 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Basketball",
+  "identifier": "master3_d_object_model:1913482-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+  "sourceIdentifier": "asset_collection_model:1913486-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.8077831268310547,
+  "globalScaleFactor": 1,
+  "height": 0.806501030921936,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707963705062866,
+    "ry": -0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.8065954446792603,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Basketball_fbx.fbx",
+      "identifier": "sceneObject:1913456-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": -0,
+        "rz": 0,
+        "sx": 0.009999999776482582,
+        "sy": 0.009999999776482582,
+        "sz": 0.009999999776482582,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:1913458-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "Basketball",
+              "identifier": "sceneObject:1913460-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707964897155762,
+                "ry": -0,
+                "rz": 0,
+                "sx": 100,
+                "sy": 100,
+                "sz": 100,
+                "x": -0.00010066992399515584,
+                "y": -0.0003016783739440143,
+                "z": 0.00023741227050777525
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "Basketball_C_Orange_0",
+                  "identifier": "mesh:1913462-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Basketball_C_Orange_0",
+                  "numberOfFaces": 496,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1913466-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1913464-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1913469-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1913450-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                          "surfaceGroupIdentifier": "1913470-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "Basketball_C_Black_0",
+                  "identifier": "mesh:1913472-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "Basketball_C_Black_0",
+                  "numberOfFaces": 732,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1913476-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1913474-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1913479-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1913452-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06",
+                          "surfaceGroupIdentifier": "1913480-fde6ae2f-a53c-4f66-b0d7-4f94dcb80e06"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

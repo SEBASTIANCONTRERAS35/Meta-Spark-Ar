@@ -1,0 +1,43 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "Anodized_Titanium_Brushed_Yellow2_baseColor",
+  "identifier": "dependent_texture_model:744595-82737212-c846-49d3-9a64-18574d691c14",
+  "sourceIdentifier": "asset_collection_model:744837-82737212-c846-49d3-9a64-18574d691c14",
+  "alphaPremultiplicationMode": "none",
+  "assetLocator": "0df3a2dc6578718a8cbd4e39836fcb77.png",
+  "colorEncoding": "srgb",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "trilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {
+    "textures": [
+      {
+        "type": 1
+      }
+    ]
+  },
+  "isExternalAsset": false,
+  "originalFileHash": "24088cf21bb0b87cb9ab031ed2d8ffb3",
+  "originalFileReference": "file_reference_model:744867-82737212-c846-49d3-9a64-18574d691c14",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "0df3a2dc6578718a8cbd4e39836fcb77",
+      "colorCount": 86,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.53022456814134,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

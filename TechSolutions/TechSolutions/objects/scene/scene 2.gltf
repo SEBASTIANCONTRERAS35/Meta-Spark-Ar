@@ -1,0 +1,549 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 142,
+      "max": [
+        2.3473033905029297,
+        7.290271282196045,
+        8.810321807861328
+      ],
+      "min": [
+        -2.3576693534851074,
+        -7.290271282196045,
+        -1.802273154258728
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1704,
+      "componentType": 5126,
+      "count": 142,
+      "max": [
+        1.0,
+        1.0,
+        0.9900320172309875
+      ],
+      "min": [
+        -0.9985980987548828,
+        -0.9984973669052124,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 142,
+      "max": [
+        0.9940584301948547,
+        1.0,
+        0.9999404549598694,
+        1.0
+      ],
+      "min": [
+        -0.9950457215309143,
+        -1.0,
+        -0.9998356103897095,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 142,
+      "max": [
+        0.9840332865715027,
+        0.9846149682998657
+      ],
+      "min": [
+        0.012060496024787426,
+        0.012060496024787426
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 486,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3408,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.9004378318786621,
+        7.290271282196045,
+        8.810321807861328
+      ],
+      "min": [
+        0.3901596665382385,
+        -7.290271282196045,
+        0.3024020195007324
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3600,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        -0.53648442029953,
+        0.7409817576408386,
+        0.756017804145813
+      ],
+      "min": [
+        -0.996344268321991,
+        -0.7409816980361938,
+        -0.7936304807662964
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2272,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.7567899823188782,
+        0.23214749991893768,
+        0.9962154626846313,
+        1.0
+      ],
+      "min": [
+        -0.8047375679016113,
+        -0.23217417299747467,
+        0.5834916234016418,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1136,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.9602913856506348,
+        0.4764421284198761
+      ],
+      "min": [
+        0.6866204738616943,
+        0.012060496024787426
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1944,
+      "componentType": 5125,
+      "count": 48,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3792,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.1292462348937988,
+        6.818559169769287,
+        8.33860969543457
+      ],
+      "min": [
+        1.1292462348937988,
+        -6.818559169769287,
+        0.7741141319274902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3840,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2528,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        -1.0,
+        0.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1264,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.5536396503448486,
+        0.8186159729957581
+      ],
+      "min": [
+        0.02092227339744568,
+        0.5231180787086487
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2136,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Aydino (https://sketchfab.com/webnma.com)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/asus-monitor-a6b35b5174c444f398bd10366609eb26",
+      "title": "Asus Monitor"
+    },
+    "generator": "Sketchfab-12.75.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2160,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1296,
+      "byteOffset": 2160,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3888,
+      "byteOffset": 3456,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2592,
+      "byteOffset": 7344,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 9936,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/frame_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/frame_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/frame_normal.png"
+    },
+    {
+      "uri": "textures/back_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/back_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/back_normal.png"
+    },
+    {
+      "uri": "textures/screen_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/screen_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/screen_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "frame",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "back",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "screen",
+      "normalTexture": {
+        "index": 8
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        },
+        "roughnessFactor": 0.5670458585082093
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "AsusMonitor_frame_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "AsusMonitor_back_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "AsusMonitor_screen_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "AsusMonitor.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        19.552122116088867,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -3.1854450187052507e-06,
+        -19.552122116088608,
+        0.0,
+        0.0,
+        19.552122116088608,
+        -3.1854450187052507e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "AsusMonitor"
+    },
+    {
+      "mesh": 0,
+      "name": "AsusMonitor_frame_0"
+    },
+    {
+      "mesh": 1,
+      "name": "AsusMonitor_back_0"
+    },
+    {
+      "mesh": 2,
+      "name": "AsusMonitor_screen_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}

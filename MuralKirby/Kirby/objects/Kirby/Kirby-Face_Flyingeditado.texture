@@ -1,0 +1,37 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "Kirby-Face_Flyingeditado",
+  "identifier": "dependent_texture_model:823310-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "sourceIdentifier": "asset_collection_model:823359-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "3c4b012eba3273f878beabae5414682d.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "originalFileHash": "3c4b012eba3273f878beabae5414682d",
+  "originalFileReference": "file_reference_model:823363-ca615320-abe2-4618-a743-21fe9ca12f4c",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "3c4b012eba3273f878beabae5414682d",
+      "colorCount": 4666,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.7767831169057338,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

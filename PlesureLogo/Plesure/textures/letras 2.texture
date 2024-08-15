@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "letras",
+  "identifier": "texture:498985-d1340a1d-711d-4738-978c-77db04d06cfe",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "87e3c209fa83e5161f821fda73fb42ea",
+  "assetLocator": "textures/letras.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 249,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 897,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "87e3c209fa83e5161f821fda73fb42ea",
+      "colorCount": 837,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.676748638524043,
+      "pixelsHigh": 249,
+      "pixelsWide": 897
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "noise",
+  "identifier": "texture:715334-0d10e25f-d4b3-4518-b987-2646ad2dac83",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "eab123688c995aa3aa8b6d356cea2c78",
+  "assetLocator": "textures/noise.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 256,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "eab123688c995aa3aa8b6d356cea2c78",
+      "colorCount": 15976,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 12.82788439859426,
+      "pixelsHigh": 256,
+      "pixelsWide": 256
+    }
+  ]
+}

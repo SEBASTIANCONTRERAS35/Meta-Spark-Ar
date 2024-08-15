@@ -1,0 +1,87 @@
+{
+  "modelName": "animation_model",
+  "name": "Take 01",
+  "identifier": "animation_model:1026038-92679b34-ac5a-41c7-935a-3009119e2672",
+  "sourceIdentifier": "asset_collection_model:1026056-92679b34-ac5a-41c7-935a-3009119e2672",
+  "assetLocator": "25b05a6828748cc07297306dc581b4da.glb",
+  "duration": 10.416669921875,
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "importIssues": {
+    "animations": [
+      {
+        "name": "Take 01",
+        "channel": "Circle.455_0",
+        "type": 5
+      }
+    ]
+  },
+  "isExternalAsset": false,
+  "ticksPerSecond": 1000,
+  "children": [
+    {
+      "modelName": "animation_channels_model",
+      "identifier": "animation_channels_model:1026040-92679b34-ac5a-41c7-935a-3009119e2672"
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model0",
+      "identifier": "animation_channel_model:1026042-92679b34-ac5a-41c7-935a-3009119e2672",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model1",
+      "identifier": "animation_channel_model:1026044-92679b34-ac5a-41c7-935a-3009119e2672",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model2",
+      "identifier": "animation_channel_model:1026046-92679b34-ac5a-41c7-935a-3009119e2672",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model3",
+      "identifier": "animation_channel_model:1026048-92679b34-ac5a-41c7-935a-3009119e2672",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model4",
+      "identifier": "animation_channel_model:1026050-92679b34-ac5a-41c7-935a-3009119e2672",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model5",
+      "identifier": "animation_channel_model:1026052-92679b34-ac5a-41c7-935a-3009119e2672",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    }
+  ]
+}

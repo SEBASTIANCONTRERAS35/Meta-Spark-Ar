@@ -1,0 +1,69 @@
+{
+  "modelName": "animation_model",
+  "name": "Animation",
+  "identifier": "animation_model:1580256-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+  "sourceIdentifier": "asset_collection_model:1580272-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+  "assetLocator": "7fba4ce1262a6bfa6f2e1a613ba7ff86.glb",
+  "duration": 6.4,
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "ticksPerSecond": 1000,
+  "children": [
+    {
+      "modelName": "animation_channels_model",
+      "identifier": "animation_channels_model:1580258-babb5124-be86-41f0-9d3f-de6c1ef3d16a"
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model0",
+      "identifier": "animation_channel_model:1580260-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model1",
+      "identifier": "animation_channel_model:1580262-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model2",
+      "identifier": "animation_channel_model:1580264-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model3",
+      "identifier": "animation_channel_model:1580266-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    },
+    {
+      "modelName": "animation_channel_model",
+      "name": "animation_channel_model4",
+      "identifier": "animation_channel_model:1580268-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+      "animationMask": {
+        "position": true,
+        "rotation": true,
+        "scale": true
+      }
+    }
+  ]
+}

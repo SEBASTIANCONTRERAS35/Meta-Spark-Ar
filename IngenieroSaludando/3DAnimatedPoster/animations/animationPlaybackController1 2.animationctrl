@@ -1,0 +1,12 @@
+{
+  "modelName": "animation_playback_controller_model",
+  "name": "animationPlaybackController1",
+  "identifier": "animation_playback_controller_model:2905646-b474a6a2-a95e-4d2e-8c49-a64f0472c136",
+  "animationIdentifier": "objects/engineeranimated/metarig-helo.animation",
+  "autoPlay": true,
+  "clipEnd": 1.4583333333333333,
+  "clipProgress": 0,
+  "clipStart": 0,
+  "loop": true,
+  "speed": 1.6811967329545405
+}

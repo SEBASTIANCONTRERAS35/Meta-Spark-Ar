@@ -1,0 +1,12 @@
+{
+  "modelName": "animation_playback_controller_model",
+  "name": "animationPlaybackController0",
+  "identifier": "animation_playback_controller_model:340803-4340da5f-fd2b-444f-8e2a-128d846a7ccb",
+  "animationIdentifier": "objects/scene(2)/Experiment.animation",
+  "autoPlay": true,
+  "clipEnd": 25.04,
+  "clipProgress": 0,
+  "clipStart": 0,
+  "loop": true,
+  "speed": 1
+}

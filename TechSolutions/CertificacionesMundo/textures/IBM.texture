@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "IBM",
+  "identifier": "texture:1140648-92679b34-ac5a-41c7-935a-3009119e2672",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "caadef83387457f2a723e24adbe4ef05",
+  "assetLocator": "textures/IBM.jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 360,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 640,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "caadef83387457f2a723e24adbe4ef05",
+      "colorCount": 18001,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 6.580429645226816,
+      "pixelsHigh": 360,
+      "pixelsWide": 640
+    }
+  ]
+}

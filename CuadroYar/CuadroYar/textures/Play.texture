@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Play",
+  "identifier": "texture:803939-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d71691c078571035f695db6d57cf84b7",
+  "assetLocator": "textures/Play.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:829907-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+    "textureExportConfig:837583-1a6bce62-06e0-4167-aabd-c8b08cdb5241",
+    "textureExportConfig:845261-1a6bce62-06e0-4167-aabd-c8b08cdb5241"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d71691c078571035f695db6d57cf84b7",
+      "colorCount": 485,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.4409784446583773,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

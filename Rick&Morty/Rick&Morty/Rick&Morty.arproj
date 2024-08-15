@@ -1,0 +1,2161 @@
+{
+  "modelName": "document",
+  "name": "Effect",
+  "identifier": "document:8-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+  "id": "7252452cc8c54f6ecf49ddbf9188b49a4ae001",
+  "revision": "1237710eba127808fae4d7dbdd838ce26d67335",
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 177
+  },
+  "creatorIdentifier": "com.facebook.arstudio.skylight",
+  "creatorPlatform": "macosx",
+  "creatorFileVersion": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 78
+  },
+  "cameraFar": 50,
+  "cameraNear": 0.009999999776482582,
+  "measurementUnit": "meter",
+  "objects": [
+    {
+      "modelName": "assets_config_model",
+      "identifier": "assets_config_model:725982-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+      "categoriesOrder": [
+        "materials",
+        "textures",
+        "shaders",
+        "scripts",
+        "blocks"
+      ]
+    }
+  ],
+  "previousDocumentIds": [
+    "6d3d48b786a6d41b5bc1110fe0972355c",
+    "181552a11cf47a2f524d95956b6120a80f364b",
+    "16899f325f934c45746dba6c3a5e5e8697d96",
+    "461897ff404450d8149c3a8de09a88558eb57",
+    "238685da536b0bed74e94b9f5ef156e33f17c",
+    "239745da536b0bed74e94b9f5ef156e33f17c",
+    "2755116edb6444fb04f6987b144cfe76dca03",
+    "125625def44d32bf742508b05836f9f109e8f",
+    "2301525d2977ef7054edb88dea6a1189ba56d",
+    "230612745a0aab7764397afb894c6909afbe9",
+    "19508dc79c17ec17c4f77914c0251f40cee99",
+    "223343a40e35bc2fa4ee2b388fcf2e485d1e1",
+    "88050199e410a9ccf422781671183fc189c20",
+    "8990968881cd46c164e5a986b7f422630fd37",
+    "12135638a43bb7d20c402a98791c2c13ffb851",
+    "12135738a43bb7d20c402a98791c2c13ffb851",
+    "2419048671de58bc864100960e31eb5a9c3102",
+    "1086760fa6d13c978b45d98b91ee540d8d954b",
+    "88642328373a6db964238bd3d05013bfd9dc5"
+  ],
+  "projectFormatType": "separated_files",
+  "usingPatchesV2": true,
+  "visual_programming": {
+    "sectionFileLocation": "Rick&Morty.patches"
+  },
+  "children": [
+    {
+      "modelName": "textures",
+      "identifier": "textures:12-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "defaultEnvironmentTexture": "environment_texture_model:1138198-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+      "children": [
+        {
+          "sectionFileLocation": "textures/replaceMe.texture"
+        },
+        {
+          "modelName": "colorTexture",
+          "name": "colorTexture0",
+          "identifier": "colorTexture:99513-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+          "color": "0xfffffefe"
+        },
+        {
+          "modelName": "colorTexture",
+          "name": "colorTexture1",
+          "identifier": "colorTexture193243-a11cf47a-2f52-4d95-956b-6120a80f364b",
+          "color": "0xff7f007f"
+        },
+        {
+          "modelName": "colorTexture",
+          "name": "colorTexture3",
+          "identifier": "colorTexture:20005-12df2906-ff97-434b-bb9c-71fecb9af431",
+          "color": "0xff7f007f"
+        },
+        {
+          "modelName": "render_pass_texture_model",
+          "name": "Scene Render PassTexture",
+          "identifier": "render_pass_texture_model:81171-30d103e2-7536-4afa-81b2-30fe073c169a",
+          "isPatchManaged": true,
+          "sourceSceneObjectIdentifier": "patch_model:79437-30d103e2-7536-4afa-81b2-30fe073c169a"
+        },
+        {
+          "sectionFileLocation": "textures/DiffuseEnvironment.texture"
+        },
+        {
+          "sectionFileLocation": "textures/PreviewEnvironment.texture"
+        },
+        {
+          "sectionFileLocation": "textures/SpecularEnvironment.texture"
+        },
+        {
+          "modelName": "environment_texture_model",
+          "name": "Default environment texture",
+          "identifier": "environment_texture_model:1138198-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "diffuseEnvironmentTextureIdentifier": "textures/DiffuseEnvironment.texture",
+          "previewEnvironmentTextureIdentifier": "textures/PreviewEnvironment.texture",
+          "specularEnvironmentTextureIdentifier": "textures/SpecularEnvironment.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/circle_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/circle2_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/Star_Texture_.004_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/Star_Texture_.004_baseColor-2.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/Star_Texture_.004_baseColor-3.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(7)/Clouds_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(7)/Planet_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.001_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.002_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.002_metallicRoughness.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.003_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.001_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.002_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.003_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(10)/Root_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(10)/Root_baseColor-2.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(11)/Scene_-_Root_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/M_Morty_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/M_Morty_metallicRoughness.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/M_Morty_metallicRoughness-2.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/M_Morty_normal.texture"
+        }
+      ]
+    },
+    {
+      "modelName": "materials",
+      "identifier": "materials:14-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "sectionFileLocation": "materials/reticle.material"
+        },
+        {
+          "sectionFileLocation": "materials/icon.material"
+        },
+        {
+          "sectionFileLocation": "materials/glintArc.material"
+        },
+        {
+          "sectionFileLocation": "materials/glint.material"
+        },
+        {
+          "sectionFileLocation": "materials/transparent.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/circle.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/circle2.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/Star_Texture_.004.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/Star_Texture.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/Star_Texture_.001.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(7)/Clouds.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(7)/Planet.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.001.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.002.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/grass01.003.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.001.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.002.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/wheat.003.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(10)/Material.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(10)/Root.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(11)/Scene_-_Root.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/M_Morty.material"
+        }
+      ]
+    },
+    {
+      "sectionFileLocation": "Rick&Morty.scene"
+    },
+    {
+      "modelName": "layers",
+      "identifier": "layers:22-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "layer",
+          "name": "UI",
+          "identifier": "layer:931403-1c5d804f-b5b5-42e5-b320-648bb117e997",
+          "color": "0xffec7ebd",
+          "generationIndex": 1
+        },
+        {
+          "modelName": "layer",
+          "name": "layer0",
+          "identifier": "layer:88-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+          "color": "0xff8c72cb"
+        }
+      ]
+    },
+    {
+      "modelName": "shaders",
+      "identifier": "shaders:40-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "shader_code_asset_model",
+          "name": "Icon.sca",
+          "identifier": "shader_code_asset_model:23140-2dab5951-b388-49ed-b5bc-d05901061a9b",
+          "assetDataHash": "62d166f6852239322614cea1d71cb016",
+          "assetLocator": "shaders/Icon.sca",
+          "builtinDeps": [
+            "texture2d",
+            "textureEnv",
+            "gradients",
+            "sdf"
+          ],
+          "externalDeps": [],
+          "isExternalAsset": true,
+          "moduleName": "sparkShaderCode7115708687431823497",
+          "wordsHash": 4051824607814151789,
+          "children": [
+            {
+              "modelName": "shader_interface_model",
+              "identifier": "shader_interface_model:121260-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+              "description": "",
+              "functionName": "user::main",
+              "linkageName": "sparkShaderCode7115708687431823497",
+              "children": [
+                {
+                  "modelName": "shaderInputPorts",
+                  "identifier": "shaderInputPorts:121262-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+                  "children": [
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "texture",
+                      "identifier": "shader_input_port_model:725249-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": "",
+                      "valueType": "texture_2d"
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "progress",
+                      "identifier": "shader_input_port_model:725251-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "minimizedRadius",
+                      "identifier": "shader_input_port_model:725253-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0.20000000298023224
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "maximizedRadius",
+                      "identifier": "shader_input_port_model:725255-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0.10000000149011612
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "aspectRatio",
+                      "identifier": "shader_input_port_model:725257-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 1
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "opacity",
+                      "identifier": "shader_input_port_model:725259-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 1
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "outlineColor",
+                      "identifier": "shader_input_port_model:725261-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 3,
+                        "value": [
+                          1,
+                          1,
+                          1,
+                          1
+                        ]
+                      },
+                      "description": "",
+                      "valueType": "color"
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "outlineOffset",
+                      "identifier": "shader_input_port_model:725263-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0.0010000000474974513
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "outlineWidth",
+                      "identifier": "shader_input_port_model:725265-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0.0010000000474974513
+                      },
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "modelName": "shaderOutputPorts",
+                  "identifier": "shaderOutputPorts:121264-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+                  "children": [
+                    {
+                      "modelName": "shader_output_port_model",
+                      "name": "return",
+                      "identifier": "shader_output_port_model:725267-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "description": "color",
+                      "valueType": "vec4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "shader_code_asset_model",
+          "name": "Reticle.sca",
+          "identifier": "shader_code_asset_model:23142-2dab5951-b388-49ed-b5bc-d05901061a9b",
+          "assetDataHash": "e41d11bcfcd392fbb5cb7d3258b8bca9",
+          "assetLocator": "shaders/Reticle.sca",
+          "builtinDeps": [
+            "texture2d",
+            "textureEnv",
+            "gradients",
+            "sdf"
+          ],
+          "externalDeps": [],
+          "isExternalAsset": true,
+          "moduleName": "sparkShaderCode13129926421944877200",
+          "wordsHash": -6895436640808920202,
+          "children": [
+            {
+              "modelName": "shader_interface_model",
+              "identifier": "shader_interface_model:121286-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+              "description": "",
+              "functionName": "user::main",
+              "linkageName": "sparkShaderCode13129926421944877200",
+              "children": [
+                {
+                  "modelName": "shaderInputPorts",
+                  "identifier": "shaderInputPorts:121288-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+                  "children": [
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "color",
+                      "identifier": "shader_input_port_model:725269-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 3,
+                        "value": [
+                          1,
+                          1,
+                          1,
+                          1
+                        ]
+                      },
+                      "description": "",
+                      "valueType": "color"
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "armCount",
+                      "identifier": "shader_input_port_model:725271-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 5
+                      },
+                      "description": "",
+                      "maximumValue": {
+                        "type": 0,
+                        "value": 9
+                      },
+                      "minimumValue": {
+                        "type": 0,
+                        "value": 4
+                      }
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "progress",
+                      "identifier": "shader_input_port_model:725273-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "opacity",
+                      "identifier": "shader_input_port_model:725275-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "cornerRadius",
+                      "identifier": "shader_input_port_model:725277-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "edgeGap",
+                      "identifier": "shader_input_port_model:725279-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "thickness",
+                      "identifier": "shader_input_port_model:725281-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "aspectRatio",
+                      "identifier": "shader_input_port_model:725283-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "squareOnScreen",
+                      "identifier": "shader_input_port_model:725285-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "modelName": "shaderOutputPorts",
+                  "identifier": "shaderOutputPorts:121290-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+                  "children": [
+                    {
+                      "modelName": "shader_output_port_model",
+                      "name": "return",
+                      "identifier": "shader_output_port_model:725287-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "description": "color",
+                      "valueType": "vec4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "shader_code_asset_model",
+          "name": "Arc.sca",
+          "identifier": "shader_code_asset_model:23144-2dab5951-b388-49ed-b5bc-d05901061a9b",
+          "assetDataHash": "e548e22a605a606e74ef89358af0edb2",
+          "assetLocator": "shaders/Arc.sca",
+          "builtinDeps": [
+            "texture2d",
+            "textureEnv",
+            "gradients",
+            "sdf"
+          ],
+          "externalDeps": [],
+          "isExternalAsset": true,
+          "moduleName": "sparkShaderCode620581818051606037",
+          "wordsHash": -4114891280720918084,
+          "children": [
+            {
+              "modelName": "shader_interface_model",
+              "identifier": "shader_interface_model:121312-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+              "description": "",
+              "functionName": "user::main",
+              "linkageName": "sparkShaderCode620581818051606037",
+              "children": [
+                {
+                  "modelName": "shaderInputPorts",
+                  "identifier": "shaderInputPorts:121314-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+                  "children": [
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "color",
+                      "identifier": "shader_input_port_model:725289-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 3,
+                        "value": [
+                          1,
+                          1,
+                          1,
+                          1
+                        ]
+                      },
+                      "description": "",
+                      "valueType": "color"
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "radius",
+                      "identifier": "shader_input_port_model:725291-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0.5
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "width",
+                      "identifier": "shader_input_port_model:725293-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    },
+                    {
+                      "modelName": "shader_input_port_model",
+                      "name": "angle",
+                      "identifier": "shader_input_port_model:725295-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "defaultValue": {
+                        "type": 0,
+                        "value": 0
+                      },
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "modelName": "shaderOutputPorts",
+                  "identifier": "shaderOutputPorts:121316-38a43bb7-d20c-402a-9879-1c2c13ffb851",
+                  "children": [
+                    {
+                      "modelName": "shader_output_port_model",
+                      "name": "return",
+                      "identifier": "shader_output_port_model:725297-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+                      "description": "color",
+                      "valueType": "vec4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "scripts_model",
+      "identifier": "scripts_model:42-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "script_bridging_variables_model",
+          "identifier": "script_bridging_variables_model:44-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+          "children": [
+            {
+              "modelName": "script_patch_write_variable_model",
+              "name": "trackerInstructionProgress",
+              "identifier": "script_patch_write_variable_model:37562-6c4a51c5-e641-4fa3-a01a-06bbf8873cc4"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "reticleTransition",
+              "identifier": "script_patch_read_variable_model:59009-6c4a51c5-e641-4fa3-a01a-06bbf8873cc4"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "iconFade",
+              "identifier": "script_patch_read_variable_model:59013-6c4a51c5-e641-4fa3-a01a-06bbf8873cc4"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "reticleFade",
+              "identifier": "script_patch_read_variable_model:59015-6c4a51c5-e641-4fa3-a01a-06bbf8873cc4"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "trackerInstructionHidden",
+              "identifier": "script_patch_read_variable_model:59017-6c4a51c5-e641-4fa3-a01a-06bbf8873cc4",
+              "type": "boolean"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "isInEditor",
+              "identifier": "script_patch_read_variable_model:26188-8bc2087b-d9a8-4dbd-97f6-382f22af98a7",
+              "type": "boolean"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "showReticle",
+              "identifier": "script_patch_read_variable_model:97639-328373a6-db96-4238-bd3d-05013bfd9dc5",
+              "type": "boolean"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "showIcon",
+              "identifier": "script_patch_read_variable_model:101405-328373a6-db96-4238-bd3d-05013bfd9dc5",
+              "type": "boolean"
+            },
+            {
+              "modelName": "script_patch_read_variable_model",
+              "name": "aspectRatio",
+              "identifier": "script_patch_read_variable_model:159437-964d4579-7310-495a-adfd-8050e5c0c9c2"
+            }
+          ]
+        },
+        {
+          "modelName": "script",
+          "name": "TargetTracker",
+          "identifier": "script:58485-2dab5951-b388-49ed-b5bc-d05901061a9b",
+          "assetDataHash": "d93863b666ab5ffb357de4bed2abfa11",
+          "assetLocator": "scripts/TargetTracker.js",
+          "isExternalAsset": true
+        }
+      ]
+    },
+    {
+      "modelName": "bundled_packages_model",
+      "identifier": "bundled_packages_model:48-d3d48b78-6a6d-41b5-bc11-10fe0972355c"
+    },
+    {
+      "modelName": "exportConfig",
+      "identifier": "exportConfig:52-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:27716-a11cf47a-2f52-4d95-956b-6120a80f364b",
+          "compressionFormat": 30,
+          "maxResolution": "max128",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:27718-a11cf47a-2f52-4d95-956b-6120a80f364b",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:27720-a11cf47a-2f52-4d95-956b-6120a80f364b",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138174-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138176-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138178-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138183-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138185-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138187-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138192-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138194-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1138196-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "accuracy": "best",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:862592-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:864398-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:866206-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max128",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1482419-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1484231-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1486045-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1487861-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1489679-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:1491499-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "compressionFormat": 30,
+          "maxResolution": "max256",
+          "method": "fastest"
+        }
+      ]
+    },
+    {
+      "modelName": "manifest",
+      "identifier": "manifest:54-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "additionalEnabledChanges": [],
+      "assistantAppIDs": [
+        "2320137961422959"
+      ],
+      "assistantClientToken": null,
+      "assistantIncludeInDevelopmentArtifacts": false,
+      "assistantQuickTestEnabled": true,
+      "assistantStorageEnabled": true,
+      "assistantUseWit": false,
+      "audioEnableAudioGraphComponents": false,
+      "audioEnableAudioTransformationsApi": false,
+      "bodyTrackingMinVersion": 2,
+      "cameraControlDefaultCameraFacing": "unspecified",
+      "dynamicTextAltitude": false,
+      "dynamicTextDate": false,
+      "dynamicTextLocation": false,
+      "dynamicTextTranslation": false,
+      "dynamicTextWeather": false,
+      "effectDisablesAudioPreview": false,
+      "effectDisablesMicrophone": false,
+      "effectForceAsyncScripting": false,
+      "effectForcesSynchronousScripting": false,
+      "effectHasAmbientAudio": false,
+      "effectHasAudioGraphApi": false,
+      "effectHasTriggeredAudio": false,
+      "effectImageAntiAliasingEdgeSharpness": 0.5,
+      "effectImageAntiAliasingEdgeThreshold": 0.5,
+      "effectImageAntiAliasingTechnique": "fxaa",
+      "effectPbrClearcoatMaterialExtension": false,
+      "effectPbrIorMaterialExtension": false,
+      "effectPbrSheenMaterialExtension": false,
+      "effectPbrSpecularMaterialExtension": false,
+      "effectPbrTransmissionMaterialExtension": false,
+      "effectRecordingFromMic": false,
+      "effectUses3DModelAssets": false,
+      "effectUses4KTextures": false,
+      "effectUsesAheadOfTimeShaders": false,
+      "effectUsesAnimationPlaybackController": false,
+      "effectUsesAnimationScriptingModule": true,
+      "effectUsesAppLauncher": false,
+      "effectUsesAssistant": false,
+      "effectUsesAudio": false,
+      "effectUsesAudioLegacyMicFork": false,
+      "effectUsesAudioMixer": false,
+      "effectUsesAudioSpatialEmitter": false,
+      "effectUsesAudioTimestamps": false,
+      "effectUsesAugmentAdjacency": false,
+      "effectUsesAugmentControl": false,
+      "effectUsesAugmentGrouping": false,
+      "effectUsesAugmentSizeControl": false,
+      "effectUsesAutomaticAlphaSort": false,
+      "effectUsesAutomaticInstructions": false,
+      "effectUsesBlockModulesConfigExtras": false,
+      "effectUsesBlocks": true,
+      "effectUsesBlocksDownloadable": false,
+      "effectUsesBlocksScripting": false,
+      "effectUsesBodyTracking": false,
+      "effectUsesBodyTracking2DKeyPoints": false,
+      "effectUsesBoundingBoxScripting": false,
+      "effectUsesBoundingBoxUtilities": false,
+      "effectUsesCameraControl": false,
+      "effectUsesCameraInfoScriptingModule": false,
+      "effectUsesCameraShare": false,
+      "effectUsesComponentEvaluation": true,
+      "effectUsesComposedLocally": false,
+      "effectUsesComposedMaterial": true,
+      "effectUsesControllers": false,
+      "effectUsesCustomEngineSDK": false,
+      "effectUsesCustomFonts": false,
+      "effectUsesCustomMaterial": false,
+      "effectUsesCustomMaterialAndShaderCodeAsset": false,
+      "effectUsesCustomPipeline": false,
+      "effectUsesDSP": false,
+      "effectUsesDate": false,
+      "effectUsesDebugPatch": false,
+      "effectUsesDeltaTime": true,
+      "effectUsesDepth": false,
+      "effectUsesDepthData": false,
+      "effectUsesDepthShaderRead": false,
+      "effectUsesDeviceMotion": false,
+      "effectUsesDiagnosticsScriptingModule": true,
+      "effectUsesDirectionalLightEstimation": false,
+      "effectUsesDspAudioAnalyzer": false,
+      "effectUsesDspBitCrusher": false,
+      "effectUsesDspCompressor": false,
+      "effectUsesDspDelay": false,
+      "effectUsesDspDenoiser": false,
+      "effectUsesDspDistortion": false,
+      "effectUsesDspEnergyMeter": false,
+      "effectUsesDspModulator": false,
+      "effectUsesDspParametricEqualizer": false,
+      "effectUsesDspPitchShifter": false,
+      "effectUsesDspReverb": false,
+      "effectUsesDspVocoder": false,
+      "effectUsesDynamicCapabilities": false,
+      "effectUsesDynamicInstructions": true,
+      "effectUsesDynamicScriptProperties": false,
+      "effectUsesDynamicText": false,
+      "effectUsesEmbeddedVideo": false,
+      "effectUsesEnvironmentTexturePatch": false,
+      "effectUsesExperienceControl": false,
+      "effectUsesExternalBlocks": false,
+      "effectUsesExternalFonts": false,
+      "effectUsesExternalMusicSelection": false,
+      "effectUsesExternalTextures": false,
+      "effectUsesExternalTexturesAudio": false,
+      "effectUsesExternalVideo": false,
+      "effectUsesExternalVideoStream": false,
+      "effectUsesFBA": false,
+      "effectUsesFaceDistortion": false,
+      "effectUsesFaceExpression52Blendshapes": false,
+      "effectUsesFaceExpressionExperimental": false,
+      "effectUsesFaceExpressionFitting": false,
+      "effectUsesFaceExtraction": false,
+      "effectUsesFaceTracker": false,
+      "effectUsesFaceTracker3D": false,
+      "effectUsesFaceTracker96": false,
+      "effectUsesFaceTrackingScripting2D": false,
+      "effectUsesFaceTrueScale": false,
+      "effectUsesFaceWave": false,
+      "effectUsesFacialExpressionRecognition": false,
+      "effectUsesFacialGestureRecognition": false,
+      "effectUsesFieldOfView": false,
+      "effectUsesFingerTracking": false,
+      "effectUsesFonts": true,
+      "effectUsesFormFactor": false,
+      "effectUsesFrameBrightness": false,
+      "effectUsesGalleryPicker": false,
+      "effectUsesGenericML": false,
+      "effectUsesGlobalTransform": false,
+      "effectUsesGlslEs300Features": false,
+      "effectUsesGltfPbrShader": false,
+      "effectUsesGraphQL": false,
+      "effectUsesHairSegmentation": false,
+      "effectUsesHalfFloatRenderPass": false,
+      "effectUsesHandGestureKeypoints": false,
+      "effectUsesHandTracker": false,
+      "effectUsesHapticFeedback": false,
+      "effectUsesHeadsetInfo": false,
+      "effectUsesHmdNetworkingAPI": false,
+      "effectUsesI18n": false,
+      "effectUsesIdTracker": false,
+      "effectUsesImageAntiAliasing": false,
+      "effectUsesImageAssets": false,
+      "effectUsesImageBasedLighting": true,
+      "effectUsesInstruction": true,
+      "effectUsesIntent": false,
+      "effectUsesInterEffectLinking": false,
+      "effectUsesInternalScriptingAPI": false,
+      "effectUsesIrisTracking": false,
+      "effectUsesJavaScript": true,
+      "effectUsesJavaScriptRuntimeForPatches": false,
+      "effectUsesJavaScriptScripting": true,
+      "effectUsesJavaScriptShaders": false,
+      "effectUsesJavascriptToPatchesBridging": true,
+      "effectUsesLayers": false,
+      "effectUsesLocale": false,
+      "effectUsesLocation": false,
+      "effectUsesLocationAirportData": false,
+      "effectUsesMaterialsScriptingModule": false,
+      "effectUsesMaxParticipants": false,
+      "effectUsesMicrophone": false,
+      "effectUsesMicrophoneV2": false,
+      "effectUsesMovingTargetTracking": false,
+      "effectUsesMultipeer": false,
+      "effectUsesMultipeerMessaging": false,
+      "effectUsesMultiplane": false,
+      "effectUsesMultiplayer": false,
+      "effectUsesMultipleRenderTargets": false,
+      "effectUsesMusic": false,
+      "effectUsesNativeUIControl": false,
+      "effectUsesNativeUIControlEditableText": false,
+      "effectUsesNativeUIControlEditableTextExitCB": false,
+      "effectUsesNativeUIControlPicker": false,
+      "effectUsesNativeUIControlPickerRemoteImages": false,
+      "effectUsesNativeUIControlRawTextInput": false,
+      "effectUsesNativeUIControlSlider": false,
+      "effectUsesNativeUIControlSliderTypeColor": false,
+      "effectUsesNetworking": false,
+      "effectUsesNetworkingScriptAPI": false,
+      "effectUsesObjectCapture": false,
+      "effectUsesObjectTracking": false,
+      "effectUsesOpticalFlow": false,
+      "effectUsesOpusCodec": false,
+      "effectUsesOverlayOutput": false,
+      "effectUsesPBRMaterial": true,
+      "effectUsesParticipant": false,
+      "effectUsesParticleSystem": false,
+      "effectUsesPeerOutput": false,
+      "effectUsesPeerVideoStream": false,
+      "effectUsesPermissions": false,
+      "effectUsesPersistence": false,
+      "effectUsesPersistenceCaptureScope": false,
+      "effectUsesPersistenceSharedScope": false,
+      "effectUsesPersonalization": false,
+      "effectUsesPhysics": false,
+      "effectUsesPhysicsSync": false,
+      "effectUsesPlaneNormal": false,
+      "effectUsesPlaneTrackerTrackTextureAPI": false,
+      "effectUsesPlatformEvents": false,
+      "effectUsesPlatformEventsDocumentScoped": false,
+      "effectUsesPlatformFunctions": false,
+      "effectUsesPlatformTextures": false,
+      "effectUsesPlaybackInfo": false,
+      "effectUsesPortalPose": false,
+      "effectUsesPreciseLocation": false,
+      "effectUsesPrefabScriptingModule": false,
+      "effectUsesPreviewCaptureOutputs": true,
+      "effectUsesRGBCameraTexture": false,
+      "effectUsesRTRMapping": false,
+      "effectUsesRandomScriptingModule": false,
+      "effectUsesReactiveScriptingModule": true,
+      "effectUsesRealScaleEstimation": false,
+      "effectUsesRealScaleEstimationWithFallback": false,
+      "effectUsesRecognition": false,
+      "effectUsesRecognitionTracking": false,
+      "effectUsesRecordedSignalsForSamplers": false,
+      "effectUsesRemote3DModels": false,
+      "effectUsesRemoteMaps": false,
+      "effectUsesRenderPasses": false,
+      "effectUsesRenderSettingsHigh": false,
+      "effectUsesRingTryOn": false,
+      "effectUsesRotateVector": false,
+      "effectUsesSceneDepth": false,
+      "effectUsesSceneDepthWithFallback": false,
+      "effectUsesSceneObjectTags": false,
+      "effectUsesSceneRenderPassResolutionAspectRatio": false,
+      "effectUsesSceneScriptingModule": true,
+      "effectUsesScriptAnalytics": false,
+      "effectUsesScriptingDynamicInstantiation": false,
+      "effectUsesSegmentation": false,
+      "effectUsesSegmentationType": false,
+      "effectUsesShaderCode": true,
+      "effectUsesShaderPicking": false,
+      "effectUsesShadows": false,
+      "effectUsesSkinSegmentation": false,
+      "effectUsesSkinSmoothing": false,
+      "effectUsesSpaceSetup": false,
+      "effectUsesSpatialGesture": false,
+      "effectUsesSpatialHandTracking": false,
+      "effectUsesSplitScreen": false,
+      "effectUsesStaticTargetTracking": true,
+      "effectUsesStyleTransfer": false,
+      "effectUsesSupportedOrientations": false,
+      "effectUsesSvg": false,
+      "effectUsesSyncDomApis": true,
+      "effectUsesTargetRecognition": false,
+      "effectUsesTextAssets": false,
+      "effectUsesTextCaptions": false,
+      "effectUsesTextExtrusion": false,
+      "effectUsesTexturesScriptingModule": true,
+      "effectUsesTimeScriptingModule": true,
+      "effectUsesToasterTracking": false,
+      "effectUsesTouchGestures": true,
+      "effectUsesTwoDimensionalText": true,
+      "effectUsesTypeScript": false,
+      "effectUsesUiCore": false,
+      "effectUsesUiPlanarBackend": false,
+      "effectUsesUnifiedTargetTracking": true,
+      "effectUsesUnitsScriptingModule": false,
+      "effectUsesVariadicMath": true,
+      "effectUsesVertexTextureFetch": false,
+      "effectUsesVisualShaders": true,
+      "effectUsesVisualShadersSdf": true,
+      "effectUsesVoiceInteraction": false,
+      "effectUsesWarpPostProcessor": false,
+      "effectUsesWarpPreProcessor": false,
+      "effectUsesWarpSmoothing": true,
+      "effectUsesWeather": false,
+      "effectUsesWebPTexture": false,
+      "effectUsesWebsockets": false,
+      "effectUsesWorldTracker": false,
+      "effectUsesWorldTrackerEnvironmentLight": false,
+      "effectUsesWorldTrackerJSAPI": false,
+      "effectUsesWorldTrackingWorldMap": false,
+      "effectUsesWorldUnderstanding": false,
+      "effectUsesWorldUnderstandingV2": false,
+      "effectUsesWriteableSignalSource": false,
+      "engineSDKVersion": "177.0",
+      "externalTexturesWhitelistedDomains": [],
+      "faceExpressionFittingMinVersion": 15,
+      "faceExpressionFittingRTRRetargetingMinVersion": 1,
+      "faceTrackerIsEnabled": false,
+      "faceTrackerMaxFaces": 1,
+      "faceTrackerMinVersion": 10,
+      "facewaveMinVersion": 1,
+      "hairSegmentationMinVersion": 1,
+      "handTrackerMaxHands": 2,
+      "handTrackerMinVersion": 3,
+      "instructionFindAnImageBackCameraEnabled": true,
+      "instructionFindAnImageFrontCameraEnabled": true,
+      "instructionFindBodyBackCameraEnabled": true,
+      "instructionFindBodyFrontCameraEnabled": true,
+      "instructionFindFaceBackCameraEnabled": true,
+      "instructionFindFaceFrontCameraEnabled": true,
+      "instructionFindHandBackCameraEnabled": true,
+      "instructionFindHandFrontCameraEnabled": true,
+      "instructionFindPersonBackCameraEnabled": true,
+      "instructionFindPersonFrontCameraEnabled": true,
+      "instructionTokens": [
+        "flip_camera",
+        "find_the_image",
+        "keep_moving"
+      ],
+      "interEffectLinkingEffectIds": null,
+      "internalScriptingAPIDelay": false,
+      "internalScriptingAPIDeprecatedParticles": false,
+      "internalScriptingAPIEventStream": false,
+      "internalScriptingAPIExperimentalCameraInfo": false,
+      "internalScriptingAPIGlobalTransform": false,
+      "manuallyEnabledItemsIds": [
+        "effectUsesInstruction",
+        "effectUsesDynamicInstructions",
+        "touchGesturesSupportsTap",
+        "effectUsesTwoDimensionalText"
+      ],
+      "maxParticipantsCount": 0,
+      "multiclassSegmentationMinVersion": 3004,
+      "objectTrackerMaxObjects": 1,
+      "optionalCapabilityItemIds": [],
+      "persistenceWhitelistedKeys": null,
+      "personalizationSpecialOccasion": "none",
+      "platformUsage": {},
+      "recognitionMinVersion": 2,
+      "ringTryOnMinVersion": 1,
+      "sceneDepthMinVersion": 1,
+      "sceneDepthWithFallbackMinVersion": 1,
+      "segmentationMinVersion": 2,
+      "shaderPostProcessor": false,
+      "shaderPreProcessor": false,
+      "supportsLandscape": false,
+      "supportsPortrait": true,
+      "supportsWildcardDomainsWhitelisting": false,
+      "targetRecognitionMinVersion": 2,
+      "touchGesturesSupportsLongPress": false,
+      "touchGesturesSupportsPan": false,
+      "touchGesturesSupportsPinch": false,
+      "touchGesturesSupportsRawTouch": false,
+      "touchGesturesSupportsRotate": false,
+      "touchGesturesSupportsTap": true,
+      "whitelistedDomains": null,
+      "witAppId": null,
+      "witClientToken": null,
+      "worldTrackerBackCameraEnabled": true,
+      "worldTrackerFrontCameraEnabled": true,
+      "worldTrackerMode": "plane",
+      "worldTrackerUsesFaceTracker": false
+    },
+    {
+      "modelName": "asset_attributions_model",
+      "identifier": "asset_attributions_model:60-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:1119616-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetAuthor": "Aw Boon Jun",
+          "assetModelIdentifier": "block_model:1119612-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetTitle": "Wavey Displacement",
+          "assetURLString": "",
+          "licenseModelIdentifier": "license_model:1119614-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:1793328-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetAuthor": "leha_pu",
+          "assetModelIdentifier": "asset_collection_model:1793316-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetTitle": "Hot sun",
+          "assetURLString": "https://sketchfab.com/3d-models/hot-sun-c3d84ec0290c4a04a23913edb0db3c9a",
+          "licenseModelIdentifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:741154-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetAuthor": "cmzw",
+          "assetModelIdentifier": "asset_collection_model:741146-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetTitle": "Stylized planet",
+          "assetURLString": "https://sketchfab.com/3d-models/stylized-planet-789725db86f547fc9163b00f302c3e70",
+          "licenseModelIdentifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:761708-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetAuthor": "MichaelEGA",
+          "assetModelIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetTitle": "Grass Patches",
+          "assetURLString": "https://sketchfab.com/3d-models/grass-patches-7b65ce8bc0514c75b4243c5251cd5984",
+          "licenseModelIdentifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:833843-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetAuthor": "Harold.Llanos",
+          "assetModelIdentifier": "asset_collection_model:833837-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetTitle": "Silla de playa lowpoly - beach chair lowpoly",
+          "assetURLString": "https://sketchfab.com/3d-models/silla-de-playa-lowpoly-beach-chair-lowpoly-961f5362ffa241bc9523cd5609ac308f",
+          "licenseModelIdentifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:842611-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetAuthor": "rocklee.ff123",
+          "assetModelIdentifier": "asset_collection_model:842605-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetTitle": "Rick and morty Rick Sánchez fortnite",
+          "assetURLString": "https://sketchfab.com/3d-models/rick-and-morty-rick-sanchez-fortnite-f507d082b15f4f89a20fc04effb2facc",
+          "licenseModelIdentifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:1544337-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetAuthor": "Exo404",
+          "assetModelIdentifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetTitle": "Morty - Ready for UE4 Rigged",
+          "assetURLString": "https://sketchfab.com/3d-models/morty-ready-for-ue4-rigged-7022ec023e2a48ffbe769571ec00c7a7",
+          "licenseModelIdentifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+        }
+      ]
+    },
+    {
+      "modelName": "licenses_model",
+      "identifier": "licenses_model:62-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "license_model",
+          "name": "Meta Spark and Frame Studio Terms",
+          "identifier": "license_model:1119614-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "linkURLString": "https://www.facebook.com/legal/camera_effects_platform_terms",
+          "slug": "Meta Spark and Frame Studio Terms"
+        },
+        {
+          "modelName": "license_model",
+          "name": "Creative Commons Attribution",
+          "identifier": "license_model:1793326-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "linkURLString": "http://creativecommons.org/licenses/by/4.0/",
+          "slug": "by"
+        }
+      ]
+    },
+    {
+      "modelName": "block_documents_model",
+      "identifier": "block_documents_model:66-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "children": [
+        {
+          "modelName": "block_model",
+          "name": "TrackerInstruction",
+          "identifier": "block_model:60748-7d0b6ecb-42c8-4c27-afc1-df684ec0fcf2",
+          "assetDataHash": "613bf7264cd950992de6f8e44c089bd6",
+          "assetLocator": "blocks/slamNux/slamNux.arblock",
+          "excludeDuringExport": true,
+          "instances": [
+            "block_scene_model:60750-7d0b6ecb-42c8-4c27-afc1-df684ec0fcf2"
+          ],
+          "isExternalAsset": true
+        },
+        {
+          "modelName": "block_model",
+          "name": "Wavey Displacement",
+          "identifier": "block_model:1119612-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetDataHash": "46181b9d9527fda86f6dcfc0c9e1559a",
+          "assetLocator": "blocks/Wavey Displacement/Wavey Displacement.arblock",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/block/921122598431816",
+          "isExternalAsset": true
+        }
+      ]
+    },
+    {
+      "modelName": "target",
+      "identifier": "target:68-d3d48b78-6a6d-41b5-bc11-10fe0972355c",
+      "targetPlatforms": [
+        "instagram",
+        "facebook"
+      ],
+      "targetUseCases": [
+        "STORIES"
+      ]
+    },
+    {
+      "modelName": "scripting_config_model",
+      "identifier": "scripting_config_model:59697-edfbdc52-ae65-48e1-9062-ab2c0ffd715c"
+    },
+    {
+      "modelName": "graphicsConfig",
+      "identifier": "graphicsConfig:725247-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+    },
+    {
+      "modelName": "videos_model",
+      "identifier": "videos_model:725870-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+    },
+    {
+      "modelName": "input_mappings_model",
+      "identifier": "input_mappings_model:725874-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001"
+    },
+    {
+      "modelName": "prefabs",
+      "identifier": "prefabs:1203190-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+      "children": [
+        {
+          "modelName": "gltf",
+          "name": "circle_circle_0",
+          "identifier": "gltf:1793090-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793091-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "circle2_circle2_0",
+          "identifier": "gltf:1793102-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793103-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.088_Star Texture .004_0",
+          "identifier": "gltf:1793114-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793115-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Plane.021_Star Texture _0",
+          "identifier": "gltf:1793126-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793127-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.072_Star Texture _0",
+          "identifier": "gltf:1793138-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793139-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.073_Star Texture _0",
+          "identifier": "gltf:1793150-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793151-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.074_Star Texture _0",
+          "identifier": "gltf:1793162-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793163-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.075_Star Texture .001_0",
+          "identifier": "gltf:1793174-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793175-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.077_Star Texture _0",
+          "identifier": "gltf:1793186-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793187-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Plane.022_Star Texture _0",
+          "identifier": "gltf:1793198-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793199-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.078_Star Texture _0",
+          "identifier": "gltf:1793210-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793211-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.079_Star Texture _0",
+          "identifier": "gltf:1793222-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793223-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.080_Star Texture _0",
+          "identifier": "gltf:1793234-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793235-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.081_Star Texture _0",
+          "identifier": "gltf:1793246-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793247-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Plane.025_Star Texture _0",
+          "identifier": "gltf:1793258-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793259-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.082_Star Texture _0",
+          "identifier": "gltf:1793270-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793271-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.083_Star Texture _0",
+          "identifier": "gltf:1793282-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793283-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.084_Star Texture _0",
+          "identifier": "gltf:1793294-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793295-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Cube.085_Star Texture _0",
+          "identifier": "gltf:1793306-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "sourceIdentifier": "master3_d_object_model:1793312-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "assetLocator": "1793307-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Object_4",
+          "identifier": "gltf:741114-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:741134-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "741115-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Object_6",
+          "identifier": "gltf:741128-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:741134-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "741129-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh_grass01_0",
+          "identifier": "gltf:761592-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761593-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.001_grass01.001_0",
+          "identifier": "gltf:761604-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761605-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.002_grass01.002_0",
+          "identifier": "gltf:761616-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761617-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.003_grass01.003_0",
+          "identifier": "gltf:761628-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761629-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.004_wheat_0",
+          "identifier": "gltf:761640-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761641-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.005_wheat.001_0",
+          "identifier": "gltf:761652-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761653-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.006_wheat.002_0",
+          "identifier": "gltf:761664-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761665-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "U3DMesh.007_wheat.003_0",
+          "identifier": "gltf:761676-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:761682-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "761677-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "MADERAS_0",
+          "identifier": "gltf:833815-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:833833-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "833816-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "TELA_0",
+          "identifier": "gltf:833827-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:833833-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "833828-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Object_7",
+          "identifier": "gltf:842585-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:842601-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "842586-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "Object_8",
+          "identifier": "gltf:1544297-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "sourceIdentifier": "master3_d_object_model:1544315-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "assetLocator": "1544298-2db8d888-e8af-407b-972d-14f887c96a8c.glb",
+          "isExternalAsset": false
+        }
+      ]
+    },
+    {
+      "modelName": "3_d_objects_model",
+      "identifier": "3_d_objects_model:1203192-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+      "children": [
+        {
+          "sectionFileLocation": "objects/scene/scene.object"
+        },
+        {
+          "sectionFileLocation": "objects/scene(7)/scene.object"
+        },
+        {
+          "sectionFileLocation": "objects/scene(8)/scene.object"
+        },
+        {
+          "sectionFileLocation": "objects/scene(10)/scene.object"
+        },
+        {
+          "sectionFileLocation": "objects/scene(11)/scene.object"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/scene.object"
+        }
+      ]
+    },
+    {
+      "modelName": "asset_collections_model",
+      "identifier": "asset_collections_model:1203196-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+      "children": [
+        {
+          "modelName": "asset_collection_model",
+          "name": "Hot sun",
+          "identifier": "asset_collection_model:1793316-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+          "applicationData": [],
+          "assetDataHash": "c871e215266861ae2ff6e8ea771e87f8",
+          "assetLocator": "objects/scene/scene.gltf",
+          "authoringTool": "Sketchfab-13.90.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/c3d84ec0290c4a04a23913edb0db3c9a",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "c871e215266861ae2ff6e8ea771e87f8",
+          "textures": [
+            "objects/scene/Star_Texture_.004_baseColor-2.texture",
+            "objects/scene/Star_Texture_.004_baseColor-3.texture",
+            "objects/scene/Star_Texture_.004_baseColor.texture",
+            "objects/scene/circle2_baseColor.texture",
+            "objects/scene/circle_baseColor.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:1793314-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "namesForFeatureType": {
+                "Material": [
+                  "Star_Texture_.001",
+                  "circle2",
+                  "Star_Texture",
+                  "Star_Texture_.004",
+                  "circle"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:1793318-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "sourceIdentifier": "asset_collection_model:1793316-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "assetDataHash": "38bb8c6284a4b15b036383f062a7a6a8",
+              "assetLocator": "objects/scene/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "Star_Texture_.004_baseColor",
+              "identifier": "file_reference_model:1793320-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "sourceIdentifier": "asset_collection_model:1793316-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "assetDataHash": "e6322d655481150fbba7b517649d86b1",
+              "assetLocator": "objects/scene/textures/Star_Texture_.004_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "circle2_baseColor",
+              "identifier": "file_reference_model:1793322-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "sourceIdentifier": "asset_collection_model:1793316-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "assetDataHash": "ab4f89423af1eb25070380feaae633d7",
+              "assetLocator": "objects/scene/textures/circle2_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "circle_baseColor",
+              "identifier": "file_reference_model:1793324-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "sourceIdentifier": "asset_collection_model:1793316-2cc8c54f-6ecf-49dd-bf91-88b49a4ae001",
+              "assetDataHash": "e40efd4ebdb39d1762fc36bba5d6bf93",
+              "assetLocator": "objects/scene/textures/circle_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "Stylized planet",
+          "identifier": "asset_collection_model:741146-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "applicationData": [],
+          "assetDataHash": "d9d89afd3d218d60a318474a5e0b2ab0",
+          "assetLocator": "objects/scene(7)/scene.gltf",
+          "authoringTool": "Sketchfab-14.10.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/789725db86f547fc9163b00f302c3e70",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "d9d89afd3d218d60a318474a5e0b2ab0",
+          "textures": [
+            "objects/scene(7)/Clouds_baseColor.texture",
+            "objects/scene(7)/Planet_baseColor.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:741144-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "namesForFeatureType": {
+                "Animation": [
+                  "Animation"
+                ],
+                "Material": [
+                  "Planet",
+                  "Clouds"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:741148-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:741146-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "eaf372ae93fbd26d862318e1d712cd32",
+              "assetLocator": "objects/scene(7)/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "Planet_baseColor",
+              "identifier": "file_reference_model:741150-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:741146-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "1821eed6565b52b7a4e84320ada536bf",
+              "assetLocator": "objects/scene(7)/textures/Planet_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "Clouds_baseColor",
+              "identifier": "file_reference_model:741152-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:741146-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "75d3ca1128995c4434dcc76a4098c99f",
+              "assetLocator": "objects/scene(7)/textures/Clouds_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "Grass Patches",
+          "identifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "applicationData": [],
+          "assetDataHash": "8487ba2fe716fc3b13ecd41505d76bfb",
+          "assetLocator": "objects/scene(8)/scene.gltf",
+          "authoringTool": "Sketchfab-14.60.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/7b65ce8bc0514c75b4243c5251cd5984",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "8487ba2fe716fc3b13ecd41505d76bfb",
+          "textures": [
+            "objects/scene(8)/grass01.001_baseColor.texture",
+            "objects/scene(8)/grass01.002_baseColor.texture",
+            "objects/scene(8)/grass01.002_metallicRoughness.texture",
+            "objects/scene(8)/grass01.003_baseColor.texture",
+            "objects/scene(8)/grass01_baseColor.texture",
+            "objects/scene(8)/wheat.001_baseColor.texture",
+            "objects/scene(8)/wheat.002_baseColor.texture",
+            "objects/scene(8)/wheat.003_baseColor.texture",
+            "objects/scene(8)/wheat_baseColor.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:761684-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "namesForFeatureType": {
+                "Material": [
+                  "wheat.003",
+                  "wheat",
+                  "wheat.002",
+                  "grass01.003",
+                  "wheat.001",
+                  "grass01.001",
+                  "grass01.002",
+                  "grass01"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:761688-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "ccc2f6db37b8589e15e91fbb8588468e",
+              "assetLocator": "objects/scene(8)/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "wheat.002_baseColor",
+              "identifier": "file_reference_model:761690-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "c9dc71327426f0d32fb5f9d9e9262d0b",
+              "assetLocator": "objects/scene(8)/textures/wheat.002_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "wheat.003_baseColor",
+              "identifier": "file_reference_model:761692-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "dc4116a25b5cb2c843038761ad6b36ee",
+              "assetLocator": "objects/scene(8)/textures/wheat.003_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "wheat.001_baseColor",
+              "identifier": "file_reference_model:761694-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "b3cd6e32c91e847e01baae9a4f0c32da",
+              "assetLocator": "objects/scene(8)/textures/wheat.001_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "grass01.002_baseColor",
+              "identifier": "file_reference_model:761696-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "4f54d501e0f9258d44ffadb41eba44c5",
+              "assetLocator": "objects/scene(8)/textures/grass01.002_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "grass01.002_metallicRoughness",
+              "identifier": "file_reference_model:761698-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "9d08472e3ff30966afcde3c0090d001b",
+              "assetLocator": "objects/scene(8)/textures/grass01.002_metallicRoughness.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "grass01.001_baseColor",
+              "identifier": "file_reference_model:761700-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "ba7ef9ad4e1964a19169df70c03b9701",
+              "assetLocator": "objects/scene(8)/textures/grass01.001_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "grass01.003_baseColor",
+              "identifier": "file_reference_model:761702-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "4497e2c9b8f3bcfae20cda8aa05be54a",
+              "assetLocator": "objects/scene(8)/textures/grass01.003_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "wheat_baseColor",
+              "identifier": "file_reference_model:761704-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "1760f87276d650808282887193601c4b",
+              "assetLocator": "objects/scene(8)/textures/wheat_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "grass01_baseColor",
+              "identifier": "file_reference_model:761706-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "512b88168394665d94a20c7f599fd02e",
+              "assetLocator": "objects/scene(8)/textures/grass01_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "Silla de playa lowpoly - beach chair lowpoly",
+          "identifier": "asset_collection_model:833837-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "applicationData": [],
+          "assetDataHash": "1cd813237b1ed110247e7f315507273b",
+          "assetLocator": "objects/scene(10)/scene.gltf",
+          "authoringTool": "Sketchfab-12.65.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/961f5362ffa241bc9523cd5609ac308f",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "1cd813237b1ed110247e7f315507273b",
+          "textures": [
+            "objects/scene(10)/Root_baseColor-2.texture",
+            "objects/scene(10)/Root_baseColor.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:833835-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "namesForFeatureType": {
+                "Material": [
+                  "Root",
+                  "Material"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:833839-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:833837-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "394440908dbb26b507297f94f07e2261",
+              "assetLocator": "objects/scene(10)/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "Root_baseColor",
+              "identifier": "file_reference_model:833841-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:833837-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "93a5d19fcc84a708b404b45aebc40519",
+              "assetLocator": "objects/scene(10)/textures/Root_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "Rick and morty Rick Sánchez fortnite",
+          "identifier": "asset_collection_model:842605-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "applicationData": [],
+          "assetDataHash": "b1d3a1c8b90a88974e230b40d293ca77",
+          "assetLocator": "objects/scene(11)/scene.gltf",
+          "authoringTool": "Sketchfab-15.59.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/f507d082b15f4f89a20fc04effb2facc",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "b1d3a1c8b90a88974e230b40d293ca77",
+          "textures": [
+            "objects/scene(11)/Scene_-_Root_baseColor.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:842603-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "namesForFeatureType": {
+                "Material": [
+                  "Scene_-_Root"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:842607-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:842605-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "0b010cc60cf72bf13503e7f7feffc2d4",
+              "assetLocator": "objects/scene(11)/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "Scene_-_Root_baseColor",
+              "identifier": "file_reference_model:842609-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:842605-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "01a840c97407bb885c1c577e0ea9ebbd",
+              "assetLocator": "objects/scene(11)/textures/Scene_-_Root_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "Morty - Ready for UE4 Rigged",
+          "identifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+          "applicationData": [],
+          "assetDataHash": "4145eff73cdc6b569380dab91c83359f",
+          "assetLocator": "objects/scene(13)/scene.gltf",
+          "authoringTool": "Sketchfab-13.68.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/7022ec023e2a48ffbe769571ec00c7a7",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "4145eff73cdc6b569380dab91c83359f",
+          "textures": [
+            "objects/scene(13)/M_Morty_baseColor.texture",
+            "objects/scene(13)/M_Morty_metallicRoughness-2.texture",
+            "objects/scene(13)/M_Morty_metallicRoughness.texture",
+            "objects/scene(13)/M_Morty_normal.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:1544325-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "namesForFeatureType": {
+                "Animation": [
+                  "Take 001"
+                ],
+                "Material": [
+                  "M_Morty"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:1544329-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "6fe041001c2deb7677a70c46ef8941b8",
+              "assetLocator": "objects/scene(13)/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "M_Morty_baseColor",
+              "identifier": "file_reference_model:1544331-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "ffbd909de6aaea69579928f037843603",
+              "assetLocator": "objects/scene(13)/textures/M_Morty_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "M_Morty_metallicRoughness",
+              "identifier": "file_reference_model:1544333-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "4016a01ae002ef2bc307e53ef9b38814",
+              "assetLocator": "objects/scene(13)/textures/M_Morty_metallicRoughness.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "M_Morty_normal",
+              "identifier": "file_reference_model:1544335-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "sourceIdentifier": "asset_collection_model:1544327-2db8d888-e8af-407b-972d-14f887c96a8c",
+              "assetDataHash": "eca42158d981b3e4daea386acbc21bd2",
+              "assetLocator": "objects/scene(13)/textures/M_Morty_normal.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "animations_model",
+      "identifier": "animations_model:602-2db8d888-e8af-407b-972d-14f887c96a8c",
+      "children": [
+        {
+          "sectionFileLocation": "objects/scene(7)/Animation.animation"
+        },
+        {
+          "sectionFileLocation": "objects/scene(13)/Take 001.animation"
+        }
+      ]
+    }
+  ]
+}

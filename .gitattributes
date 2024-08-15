@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.areexport filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.MOV filter=lfs diff=lfs merge=lfs -text

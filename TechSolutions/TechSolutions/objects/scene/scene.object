@@ -1,0 +1,277 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Asus Monitor",
+  "identifier": "master3_d_object_model:1037476-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+  "sourceIdentifier": "asset_collection_model:1037480-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 2.8508057594299316,
+  "globalScaleFactor": 0.9638610476920373,
+  "height": 2.0749878883361816,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707961320877075,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.9199219942092896,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "AsusMonitor.fbx",
+      "identifier": "sceneObject:1037440-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.570796251296997,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 0.9999999403953552,
+        "sz": 0.9999999403953552,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:1037442-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "AsusMonitor",
+              "identifier": "sceneObject:1037444-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707964897155762,
+                "ry": 0,
+                "rz": 0,
+                "sx": 19.552122116088867,
+                "sy": 19.552122116088867,
+                "sz": 19.552122116088867,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "AsusMonitor_frame_0",
+                  "identifier": "mesh:1037446-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "AsusMonitor_frame_0",
+                  "numberOfFaces": 162,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1037450-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1037448-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1037453-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1037414-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                          "surfaceGroupIdentifier": "1037454-babb5124-be86-41f0-9d3f-de6c1ef3d16a"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "AsusMonitor_back_0",
+                  "identifier": "mesh:1037456-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "AsusMonitor_back_0",
+                  "numberOfFaces": 16,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1037460-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1037458-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1037463-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1037422-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                          "surfaceGroupIdentifier": "1037464-babb5124-be86-41f0-9d3f-de6c1ef3d16a"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "AsusMonitor_screen_0",
+                  "identifier": "mesh:1037466-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "AsusMonitor_screen_0",
+                  "numberOfFaces": 2,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:1037470-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:1037468-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:1037473-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:1037430-babb5124-be86-41f0-9d3f-de6c1ef3d16a",
+                          "surfaceGroupIdentifier": "1037474-babb5124-be86-41f0-9d3f-de6c1ef3d16a"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

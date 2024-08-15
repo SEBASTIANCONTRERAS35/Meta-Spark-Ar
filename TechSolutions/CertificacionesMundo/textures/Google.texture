@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Google",
+  "identifier": "texture:1128856-92679b34-ac5a-41c7-935a-3009119e2672",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3e9b64c1d8e1fd624ac8995e017d295f",
+  "assetLocator": "textures/Google.jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 400,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 400,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3e9b64c1d8e1fd624ac8995e017d295f",
+      "colorCount": 11565,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 5.356096201072114,
+      "pixelsHigh": 400,
+      "pixelsWide": 400
+    }
+  ]
+}

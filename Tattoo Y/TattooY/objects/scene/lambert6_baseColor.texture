@@ -1,0 +1,37 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "lambert6_baseColor",
+  "identifier": "dependent_texture_model:730958-b04c6e32-4421-4313-b936-3bbad1854258",
+  "sourceIdentifier": "asset_collection_model:731310-b04c6e32-4421-4313-b936-3bbad1854258",
+  "alphaPremultiplicationMode": "none",
+  "assetLocator": "c1886c127009426e8c84b156e293c248.png",
+  "colorEncoding": "srgb",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "trilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "originalFileHash": "c1886c127009426e8c84b156e293c248",
+  "originalFileReference": "file_reference_model:731316-b04c6e32-4421-4313-b936-3bbad1854258",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "c1886c127009426e8c84b156e293c248",
+      "colorCount": 93337,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.484989766759315,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

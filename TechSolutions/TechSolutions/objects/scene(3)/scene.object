@@ -1,0 +1,327 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Toon Magnifying Glass/Büyüteç/Lupa/Loupe/Lupe",
+  "identifier": "master3_d_object_model:35103-72a86f96-45a1-4a07-b04e-8d201a421c39",
+  "sourceIdentifier": "asset_collection_model:35107-72a86f96-45a1-4a07-b04e-8d201a421c39",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 1.6163825988769531,
+  "globalScaleFactor": 0.2949345463635638,
+  "height": 6.781165599822998,
+  "hidden": false,
+  "layerIdentifier": "UI",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 5.821602821350098,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "magnifying glass.fbx",
+      "identifier": "sceneObject:35057-72a86f96-45a1-4a07-b04e-8d201a421c39",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "UI",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:35059-72a86f96-45a1-4a07-b04e-8d201a421c39",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "UI",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "magnifying glass",
+              "identifier": "sceneObject:35061-72a86f96-45a1-4a07-b04e-8d201a421c39",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "UI",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.9470718370939721E-7,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": -3.296150463683034E-9,
+                "y": 0,
+                "z": 4.3948671368809755E-9
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "magnifying glass_Material.004_0",
+                  "identifier": "mesh:35063-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "magnifying glass_Material.004_0",
+                  "numberOfFaces": 3072,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:35067-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:35065-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:35070-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:35047-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "surfaceGroupIdentifier": "35071-72a86f96-45a1-4a07-b04e-8d201a421c39"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "magnifying glass_Material.002_0",
+                  "identifier": "mesh:35073-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "magnifying glass_Material.002_0",
+                  "numberOfFaces": 1788,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:35077-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:35075-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:35080-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:35049-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "surfaceGroupIdentifier": "35081-72a86f96-45a1-4a07-b04e-8d201a421c39"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "magnifying glass_Material.001_0",
+                  "identifier": "mesh:35083-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "magnifying glass_Material.001_0",
+                  "numberOfFaces": 3580,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:35087-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:35085-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:35090-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:35051-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "surfaceGroupIdentifier": "35091-72a86f96-45a1-4a07-b04e-8d201a421c39"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "magnifying glass_Material.003_0",
+                  "identifier": "mesh:35093-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "layerIdentifier": "UI",
+                  "nodeName": "magnifying glass_Material.003_0",
+                  "numberOfFaces": 3646,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:35097-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:35095-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:35100-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:35053-72a86f96-45a1-4a07-b04e-8d201a421c39",
+                          "surfaceGroupIdentifier": "35101-72a86f96-45a1-4a07-b04e-8d201a421c39"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

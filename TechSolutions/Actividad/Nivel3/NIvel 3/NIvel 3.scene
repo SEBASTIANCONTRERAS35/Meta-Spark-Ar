@@ -1,0 +1,356 @@
+{
+  "modelName": "scene",
+  "identifier": "scene:709-853e9c50-e694-4d3a-b6ca-744668c1daef",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "children": [
+    {
+      "modelName": "device",
+      "name": "Device",
+      "identifier": "device:765-853e9c50-e694-4d3a-b6ca-744668c1daef",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "camera",
+          "name": "Camera",
+          "identifier": "camera:767-853e9c50-e694-4d3a-b6ca-744668c1daef",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "projectionType": "perspective",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "updateSource": "gyro",
+          "children": [
+            {
+              "modelName": "focalDistance",
+              "name": "Focal Distance",
+              "identifier": "focalDistance:769-853e9c50-e694-4d3a-b6ca-744668c1daef",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": -0.5361266732215881
+              },
+              "children": [
+                {
+                  "modelName": "ambient_light_source_model",
+                  "name": "ambientLight0",
+                  "identifier": "ambient_light_source_model:775-853e9c50-e694-4d3a-b6ca-744668c1daef",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "color": "0xffffffff",
+                  "hidden": false,
+                  "intensity": 0.20000000298023224,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                },
+                {
+                  "modelName": "directional_light_source_model",
+                  "name": "directionalLight0",
+                  "identifier": "directional_light_source_model:777-853e9c50-e694-4d3a-b6ca-744668c1daef",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "color": "0xffffffff",
+                  "hidden": false,
+                  "intensity": 0.800000011920929,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shadowBias": 0.05000000074505806,
+                  "shadowFrustumDepth": 1,
+                  "shadowFrustumSize": 0.5,
+                  "shadowNear": 0.05,
+                  "shadowSoftness": 0,
+                  "shadowStrength": 1,
+                  "shadowTextureSize": 512,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.7853981633974483,
+                    "ry": 0.08726646259971647,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0.03,
+                    "y": 0.25,
+                    "z": 0.3
+                  }
+                },
+                {
+                  "modelName": "block_scene_model",
+                  "name": "Quiz Filter",
+                  "identifier": "block_scene_model:2012-853e9c50-e694-4d3a-b6ca-744668c1daef",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "customPortValues": {
+                    "block_input_port_model:1193117-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:1310091-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "texture:8528-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:1310781-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "texture:8532-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:1442219-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "sequenceTexture:2016-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:1572935-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "sequenceTexture:4224-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:1589973-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "sequenceTexture:2872-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:208901-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 10
+                    },
+                    "block_input_port_model:2119065-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "texture:15982-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:2168041-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "texture:22817-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:2285467-03f5cf0d-0285-4d52-959f-96fe8044fe24": {
+                      "t": "string",
+                      "v": "sequenceTexture:6096-853e9c50-e694-4d3a-b6ca-744668c1daef"
+                    },
+                    "block_input_port_model:231315-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": false
+                    },
+                    "block_input_port_model:234033-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": false
+                    },
+                    "block_input_port_model:236977-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:240147-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": false
+                    },
+                    "block_input_port_model:243543-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:247165-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:251013-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": false
+                    },
+                    "block_input_port_model:255087-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:259387-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:263913-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "bool",
+                      "v": true
+                    },
+                    "block_input_port_model:309484-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 1.3
+                    },
+                    "block_input_port_model:314462-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.07
+                    },
+                    "block_input_port_model:319666-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.03
+                    },
+                    "block_input_port_model:325096-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.12
+                    },
+                    "block_input_port_model:330752-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.9
+                    },
+                    "block_input_port_model:336634-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.01
+                    },
+                    "block_input_port_model:342742-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.08
+                    },
+                    "block_input_port_model:349076-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 1
+                    },
+                    "block_input_port_model:355636-9d4eefdc-925a-47a5-9723-5b04329b1dd0": {
+                      "t": "double",
+                      "v": 0.04
+                    }
+                  },
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "microphone_model",
+          "name": "Microphone",
+          "identifier": "microphone_model:771-853e9c50-e694-4d3a-b6ca-744668c1daef",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "disabled": false,
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "previewAudioSource": "default",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "grass01.002_metallicRoughness",
+  "identifier": "dependent_texture_model:761558-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "sourceIdentifier": "asset_collection_model:761686-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "alphaPremultiplicationMode": "none",
+  "assetLocator": "9d08472e3ff30966afcde3c0090d001b.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "trilinear",
+  "hasOfflineMipmaps": false,
+  "height": 256,
+  "importIssues": {},
+  "isExternalAsset": false,
+  "originalFileHash": "9d08472e3ff30966afcde3c0090d001b",
+  "originalFileReference": "file_reference_model:761698-2db8d888-e8af-407b-972d-14f887c96a8c",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "repeat",
+  "vWrapMode": "repeat",
+  "width": 256,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "9d08472e3ff30966afcde3c0090d001b",
+      "colorCount": 194,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.4814567764373825,
+      "pixelsHigh": 256,
+      "pixelsWide": 256
+    }
+  ]
+}

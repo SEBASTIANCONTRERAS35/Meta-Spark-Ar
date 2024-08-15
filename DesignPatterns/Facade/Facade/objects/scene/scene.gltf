@@ -1,0 +1,700 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 32965,
+      "max": [
+        38.1827507019043,
+        1.4896557331085205,
+        26.83869171142578
+      ],
+      "min": [
+        -125.4512939453125,
+        -0.8202221393585205,
+        -11.351701736450195
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 395580,
+      "componentType": 5126,
+      "count": 32965,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 32965,
+      "max": [
+        21.515819549560547,
+        141.27455139160156
+      ],
+      "min": [
+        -141.99322509765625,
+        -142.05572509765625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 59124,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 791160,
+      "componentType": 5126,
+      "count": 156,
+      "max": [
+        47.7129020690918,
+        58.4270133972168,
+        41.008384704589844
+      ],
+      "min": [
+        -86.79711151123047,
+        56.43044662475586,
+        39.518733978271484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 793032,
+      "componentType": 5126,
+      "count": 156,
+      "max": [
+        1.0,
+        0.866025984287262,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 263720,
+      "componentType": 5126,
+      "count": 156,
+      "max": [
+        86.54168701171875,
+        127.49041748046875
+      ],
+      "min": [
+        -86.79711151123047,
+        -56.090423583984375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 236496,
+      "componentType": 5125,
+      "count": 252,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 794904,
+      "componentType": 5126,
+      "count": 1600,
+      "max": [
+        62.14662170410156,
+        49.21259689331055,
+        41.664554595947266
+      ],
+      "min": [
+        -101.23741912841797,
+        0.0,
+        39.696048736572266
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 814104,
+      "componentType": 5126,
+      "count": 1600,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 264968,
+      "componentType": 5126,
+      "count": 1600,
+      "max": [
+        9.842519760131836,
+        162.0717010498047
+      ],
+      "min": [
+        -163.384033203125,
+        -1.292664942914492e-14
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 237504,
+      "componentType": 5125,
+      "count": 2574,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 833304,
+      "componentType": 5126,
+      "count": 7664,
+      "max": [
+        66.08541107177734,
+        59.055118560791016,
+        49.547203063964844
+      ],
+      "min": [
+        -108.7564697265625,
+        0.0,
+        39.518733978271484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 925272,
+      "componentType": 5126,
+      "count": 7664,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 277768,
+      "componentType": 5126,
+      "count": 7664,
+      "max": [
+        163.0559539794922,
+        148.6564483642578
+      ],
+      "min": [
+        -351.9388122558594,
+        -158.86785888671875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 247800,
+      "componentType": 5125,
+      "count": 14136,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1017240,
+      "componentType": 5126,
+      "count": 2400,
+      "max": [
+        120.33558654785156,
+        17.30643081665039,
+        -0.08202099800109863
+      ],
+      "min": [
+        -4.565987586975098,
+        -8.881784197001252e-16,
+        -0.3773004114627838
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1046040,
+      "componentType": 5126,
+      "count": 2400,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 339080,
+      "componentType": 5126,
+      "count": 2400,
+      "max": [
+        32.64435577392578,
+        32.64435577392578
+      ],
+      "min": [
+        -32.64435577392578,
+        -32.64435577392578
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 304344,
+      "componentType": 5125,
+      "count": 4656,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Seurat (https://sketchfab.com/crdatocu)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fachada-1-567358a0a92d445db054f152fb042edc",
+      "title": "Fachada 1"
+    },
+    "generator": "Sketchfab-13.97.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 322968,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 358280,
+      "byteOffset": 322968,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1074840,
+      "byteOffset": 681248,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1756088,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Pilar_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Muros_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Vidrio",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.11060836549885947,
+          0.4044033127046601,
+          0.6994024055223932,
+          0.2
+        ],
+        "metallicFactor": 0.29104850605258986,
+        "roughnessFactor": 0.48342699711084836
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Azotea",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0136915,
+          0.184463,
+          0.0183427,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9695530067041505
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Pilar",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9949902656391845
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Muros",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.5809511038509831
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Vidrio.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10946171077829933,
+          0.40197777983219607,
+          0.7011018919329731,
+          0.2
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9268265689073778
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "M_Cubrejuntas-Ventana-Interior-Plano Marco de cuadro [275377]_Vidrio_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cubierta b��sica Cubierta - por defecto - 30 cm [279402]_Azotea_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pilar rectangular hormig��n 600 X 600 mm [180589]_Pilar_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Muro b��sico Cubierta 10 cm [279221]_Muros_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Balconera corredera, 2 hojas 2400 x 2250mm [337480]_Vidrio.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "3bc686b5da164eaf989f8616bfb149fa.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.3048000037670089,
+        2.6646463613753874e-08,
+        4.6023525510832435e-08,
+        0.0,
+        -4.602353069908941e-08,
+        -5.93467478916378e-08,
+        -0.3048000037670043,
+        0.0,
+        -2.66464546526424e-08,
+        -0.30480000376700656,
+        5.934675191854998e-08,
+        0.0,
+        -19.257165908813477,
+        11.100000381469727,
+        12.499356269836426,
+        1.0
+      ],
+      "name": "M_Cubrejuntas-Ventana-Interior-Plano Marco de cuadro [275377]"
+    },
+    {
+      "mesh": 0,
+      "name": "M_Cubrejuntas-Ventana-Interior-Plano Marco de cuadro [275377]_Vidrio_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Cubierta b��sica Cubierta - por defecto - 30 cm [279402]"
+    },
+    {
+      "mesh": 1,
+      "name": "Cubierta b��sica Cubierta - por defecto - 30 cm [279402]_Azotea_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Pilar rectangular hormig��n 600 X 600 mm [180589]"
+    },
+    {
+      "mesh": 2,
+      "name": "Pilar rectangular hormig��n 600 X 600 mm [180589]_Pilar_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Muro b��sico Cubierta 10 cm [279221]"
+    },
+    {
+      "mesh": 3,
+      "name": "Muro b��sico Cubierta 10 cm [279221]_Muros_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        0.30480000376701355,
+        0.0,
+        2.5100559148668343e-16,
+        0.0,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        0.0,
+        -2.5100559148668343e-16,
+        0.0,
+        0.30480000376701355,
+        0.0,
+        -23.650449752807617,
+        6.0,
+        12.599355697631836,
+        1.0
+      ],
+      "name": "Balconera corredera, 2 hojas 2400 x 2250mm [337480]"
+    },
+    {
+      "mesh": 4,
+      "name": "Balconera corredera, 2 hojas 2400 x 2250mm [337480]_Vidrio.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

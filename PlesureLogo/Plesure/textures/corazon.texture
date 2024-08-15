@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "corazon",
+  "identifier": "texture:2785377-2e27fd7d-9629-425d-9722-18d69f16019c",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "96523c6c3d5d020627ff3544e3b5bab8",
+  "assetLocator": "textures/corazon.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:2785471-2e27fd7d-9629-425d-9722-18d69f16019c",
+    "textureExportConfig:2812195-2e27fd7d-9629-425d-9722-18d69f16019c",
+    "textureExportConfig:2812197-2e27fd7d-9629-425d-9722-18d69f16019c"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 370,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 407,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "96523c6c3d5d020627ff3544e3b5bab8",
+      "colorCount": 6397,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.869421870910978,
+      "pixelsHigh": 370,
+      "pixelsWide": 407
+    }
+  ]
+}

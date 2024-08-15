@@ -1,0 +1,26 @@
+# Blender 3.6.1 MTL File: 'ModeloBase.blend'
+# www.blender.org
+
+newmtl eye_material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/emiliocontreras/Downloads/eye-implant/source/eye_model/eye_albedo.tga
+map_Ns /Users/emiliocontreras/Downloads/eye-implant/source/eye_model/eye_roughness.tga
+map_refl /Users/emiliocontreras/Downloads/eye-implant/source/eye_model/eye_metalness.tga
+map_Bump -bm 1.000000 /Users/emiliocontreras/Downloads/eye-implant/source/eye_model/eye_normals.tga
+
+newmtl sclera_material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/emiliocontreras/Downloads/eye-implant/source/eye_model/eye_albedo.tga
+map_Ns /Users/emiliocontreras/Downloads/eye-implant/textures/eye_roughness.tga.png
+map_refl /Users/emiliocontreras/Downloads/eye-implant/textures/eye_metalness.tga.png
+map_Ke /Users/emiliocontreras/Downloads/eye-implant/textures/eye_ao.tga.png
+map_Bump /Users/emiliocontreras/Downloads/eye-implant/textures/eye_normals.png
